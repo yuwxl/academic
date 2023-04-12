@@ -24,7 +24,7 @@ Preprints
 for Mobile Crowdsensing based on Blockchain,” **IEEE Transactions on Dependable and Secure Computing**. Under review. 2023.
 1. “Towards Efficient, Robust, and Privacy-preserving Incentives for Crowdsensing via Blockchain,” Under
 research. 2023.
-1. “Collaborative Intrusion Detection for Smart Home Networks based on Behavior Profiling and Blockchainassisted Distributed Machine Learning,” Under research. 2023.
+1. “BAC-IDS: A Blockchain-Assisted Collaborative Intrusion Detection System for Smart Home IoT,” Under research. 2023.
 
 Publications
 ------
