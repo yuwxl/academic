@@ -26,9 +26,6 @@ research. 2023.
 
 Publications
 ------
-1. **<small>[ICDE'23]</small> Scaling Blockchain Consensus via a Robust Shared Mempool**  
-Fangyu Gai, **Jianyu Niu***, Ivan Beschastnikh, Chen Feng, Sheng Wang  
-_IEEE International Conference on Data Engineering_.
 1. **<small>[TMC'22]</small>** **Yuanhang Zhou**, Fei Tong, and Shibo He, “Bi-objective Incentive Mechanism for Mobile Crowdsensing with Budget/Cost Constraint,” **IEEE Transactions on Mobile Computing**. 2022. **CCF-A**.
 1. **<small>[TOIT'22]</small>** Jia Xu, **Yuanhang Zhou**, Gongyu Chen, et al., “Topic-aware Incentive Mechanism for Task Diffusion in Mobile Crowdsourcing through Social Network,” **ACM Transactions on Internet Technology**. 2022. **CCF-B**.
 1. **<small>[IoTJ'21]</small>** Jia Xu, **Yuanhang Zhou**, Yuqing Ding, et al., “Biobjective Robust Incentive Mechanism Design for Mobile Crowdsensing,” IEEE Internet of Things Journal (IoTJ). 2021. **JCR Q1**.
