@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Your Title Here"
+    url: https://github.com/academicpages/academicpages.github.io/
+    
 #  - title: "Publications"
 #    url: /publications/
 
