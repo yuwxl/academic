@@ -10,18 +10,20 @@ redirect_from:
 
 Short Bios
 ------
-I am a post-graduate student at [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/), advisor: [Prof. Fei Tong](https://cyber.seu.edu.cn/tf4/list.htm). I received my B. Eng. from [Nanjing University of Posts and Telecommuncation](http://www.njupt.edu.cn/) in 2021, advisor: [Prof. Jia Xu](https://xujia-njupt.github.io/xujia.github.io/).
+I am a post-graduate student at [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/), advisor: [Prof. Fei Tong](https://cyber.seu.edu.cn/tf4/list.htm). I received my B. Eng. from [Nanjing University of Posts and Telecommuncation](http://www.njupt.edu.cn/) in 2021, advisor: [Prof. Jia Xu](https://xujia-njupt.github.io/xujia.github.io/). I am applying for Ph.D. in Computer Security and Computer Science. Please drop me an email (zhouyh1999@gmail.com) if you have any interest.
 
-My [CV](/files/Yuanhang Zhou-resume.pdf).
+My [CV (Chinese)](/files/Yuanhang Zhou-resume.pdf).
 
 Research Interests
 ------
-**Crowdsensing**, **Incentive Mechanism**, **Blockchain**, **Applied Cryptography**
+**Blockchain**: Blockchain Application, Security and Privacy, Applied Cryptography
+
+**Crowdsensing**: Incentive Mechanism, Social network
 
 Preprints
 ------
 1. **Yuanhang Zhou**, Fei Tong, Kaiming Wang, et al., “Privacy-Preserving Incentive Mechanism Architecture
-for Mobile Crowdsensing based on Blockchain,” **IEEE Transactions on Dependable and Secure Computing (TDSC)**. **Major Revision**. 2023.
+for Mobile Crowdsensing based on Blockchain,” **IEEE Transactions on Dependable and Secure Computing (TDSC)**. **Major Revision** (Revision submitted). 2023.
 1. “Towards Efficient, Robust, and Privacy-preserving Incentives for Crowdsensing via Blockchain,” Under
 research. 2023.
 1. “BAC-IDS: A Blockchain-Assisted Collaborative Intrusion Detection System for Smart Home IoT,” Under research. 2023.
@@ -35,11 +37,18 @@ Publications
 
 Patents
 ------
-1. 一种基于区块链的群智感知隐私保护激励机制方法，审理中 
-1. 一种双目标群智感知激励机制方法，高价值专利通道，已授权 
-1. 一种双目标鲁棒移动群智感知系统及其激励方法，已授权
-1. 一种面向时空移动群智感知任务的异常用户检测方法，已授权
-1. 一种主题敏感众包任务扩散方法及其激励机制，已授权
+1. 一种基于区块链的群智感知隐私保护激励机制方法，高价值专利通道    Authorized    First Student Author
+1. 一种双目标群智感知激励机制方法，高价值专利通道    Authorized    First Student Author 
+1. 一种双目标鲁棒移动群智感知系统及其激励方法    Authorized    First Student Author
+1. 一种面向时空移动群智感知任务的异常用户检测方法    Authorized    Third Author
+1. 一种主题敏感众包任务扩散方法及其激励机制    Authorized    Third Author
+
+Honors
+------
+1. National Scholarship, *Ministry of Education*, 2022
+1. 1st “Huawei Cup” Network Security Innovation Competition, Third Prize, 2022
+1. First Class Postgraduate Academic Scholarship, *Southeast University*, 2021
+1. Excellent Graduation Thesis, *Nanjing University of Posts and Telecommunication*, 2021
 
 Professional Activities
 -----
@@ -50,4 +59,4 @@ Professional Activities
 - IEEE/CIC International Conference on Communications in China (ICCC)
 
 
-Last updated: 2023/04.
+Last updated: 2023/06.
