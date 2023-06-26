@@ -18,7 +18,7 @@ Research Interests
 ------
 **Blockchain**: Blockchain Application, Security and Privacy, Applied Cryptography
 
-**Crowdsensing**: Incentive Mechanism, Social network
+**Crowdsensing**: Incentive Mechanism, Optimization, Influence Maximization
 
 Preprints
 ------
@@ -37,11 +37,11 @@ Publications
 
 Patents
 ------
-1. 一种基于区块链的群智感知隐私保护激励机制方法，高价值专利通道    Authorized    First Student Author
-1. 一种双目标群智感知激励机制方法，高价值专利通道    Authorized    First Student Author 
-1. 一种双目标鲁棒移动群智感知系统及其激励方法    Authorized    First Student Author
-1. 一种面向时空移动群智感知任务的异常用户检测方法    Authorized    Third Author
-1. 一种主题敏感众包任务扩散方法及其激励机制    Authorized    Third Author
+1. 一种基于区块链的群智感知隐私保护激励机制方法, Authorized, First Student Author
+1. 一种双目标群智感知激励机制方法, Authorized, First Student Author 
+1. 一种双目标鲁棒移动群智感知系统及其激励方法, Authorized, First Student Author
+1. 一种面向时空移动群智感知任务的异常用户检测方法, Authorized, Third Author
+1. 一种主题敏感众包任务扩散方法及其激励机制, Authorized, Third Author
 
 Honors
 ------
@@ -49,6 +49,25 @@ Honors
 1. 1st “Huawei Cup” Network Security Innovation Competition, Third Prize, 2022
 1. First Class Postgraduate Academic Scholarship, *Southeast University*, 2021
 1. Excellent Graduation Thesis, *Nanjing University of Posts and Telecommunication*, 2021
+
+Employment
+------
+Visiting Student in *Southern University of Science and Technology (SUSTech)*, 2023.6 -- Present.
+Department of Computer Science and Engineering, advisor: Yinqian Zhang, Jianyu Niu.
+
+Research Experience
+------
+1. **Incentive Analysis in Blockchain Consensus**, 2023.6 – Present
+- Survey the consensus and incentives in blockchain platforms
+- Analysis the rationality of incentives using game theory
+1. **Incentive Design for Crowdsensing via Blockchain**, 2021.7 – Present
+- Realize a decentralized crowdsensing system based on blockchain
+- Design secure and privacy-preserving incentive mechanisms under blockchain architecture
+1. **Crowdsourcing Task Diffusion based on Social Network**, 2020.6 – 2021.6
+- Realize the crowdsourcing task diffusion based on social network
+- Maximize infuence within social network and design incentive
+1. **Robust Incentive Mechanism Design for Crowdsensing**, 2019.4 – 2020.5
+- Design robust incentive mechanisms for crowdsensing system
 
 Professional Activities
 -----
@@ -58,5 +77,15 @@ Professional Activities
 **Reviewer**
 - IEEE/CIC International Conference on Communications in China (ICCC)
 
+**Short Visit**
+- Tohoku University, 2018.8
 
+Technical Abilities
+-----
+1. Programming Language: C/C++ (mastered), Nodejs & Java (competent), experienced in algorithm design
+1. Platform: Linux (mastered), experienced in Windows server/Ubuntu server management
+1. Development: experienced in Hyperledger Fabric (Blockchain platform) development, focusing on Chaincode and interface methods
+1. Software: Latex (proficient), Matlab & Visio (mastered), etc.
+1. Language: CET-4 602, CET-6 496, experienced in academic writing
+ 
 Last updated: 2023/06.
