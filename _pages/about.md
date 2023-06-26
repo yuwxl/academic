@@ -58,8 +58,10 @@ Department of Computer Science and Engineering, advisor: Yinqian Zhang, Jianyu N
 Research Experience
 ------
 * **Incentive Analysis in Blockchain Consensus**, 2023.6 – Present
+  
   Survey the consensus and incentives in blockchain platforms
   Analysis the rationality of incentives using game theory
+  
 * **Incentive Design for Crowdsensing via Blockchain**, 2021.7 – Present
   Realize a decentralized crowdsensing system based on blockchain
   Design secure and privacy-preserving incentive mechanisms under blockchain architecture
