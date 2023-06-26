@@ -94,7 +94,7 @@ Technical Abilities
 -----
 * Programming Language: C/C++ (mastered), Nodejs & Java (competent), experienced in algorithm design
 * Platform: Linux (mastered), experienced in Windows server/Ubuntu server management
-* Development: experienced in Hyperledger Fabric (Blockchain platform) development, focusing on Chaincode and interface methods
+* Development: experienced in Hyperledger Fabric (Blockchain platform) development, focusing on Chaincode and interface methods
 * Software: Latex (proficient), Matlab & Visio (mastered), etc.
 * Language: CET-4 602, CET-6 496, experienced in academic writing
  
