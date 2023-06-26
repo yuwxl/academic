@@ -57,16 +57,16 @@ Department of Computer Science and Engineering, advisor: Yinqian Zhang, Jianyu N
 
 Research Experience
 ------
-1. **Incentive Analysis in Blockchain Consensus**, 2023.6 – Present
+* **Incentive Analysis in Blockchain Consensus**, 2023.6 – Present
 - Survey the consensus and incentives in blockchain platforms
 - Analysis the rationality of incentives using game theory
-1. **Incentive Design for Crowdsensing via Blockchain**, 2021.7 – Present
+* **Incentive Design for Crowdsensing via Blockchain**, 2021.7 – Present
 - Realize a decentralized crowdsensing system based on blockchain
 - Design secure and privacy-preserving incentive mechanisms under blockchain architecture
-1. **Crowdsourcing Task Diffusion based on Social Network**, 2020.6 – 2021.6
+* **Crowdsourcing Task Diffusion based on Social Network**, 2020.6 – 2021.6
 - Realize the crowdsourcing task diffusion based on social network
 - Maximize infuence within social network and design incentive
-1. **Robust Incentive Mechanism Design for Crowdsensing**, 2019.4 – 2020.5
+* **Robust Incentive Mechanism Design for Crowdsensing**, 2019.4 – 2020.5
 - Design robust incentive mechanisms for crowdsensing system
 
 Professional Activities
@@ -82,10 +82,10 @@ Professional Activities
 
 Technical Abilities
 -----
-1. Programming Language: C/C++ (mastered), Nodejs & Java (competent), experienced in algorithm design
-1. Platform: Linux (mastered), experienced in Windows server/Ubuntu server management
-1. Development: experienced in Hyperledger Fabric (Blockchain platform) development, focusing on Chaincode and interface methods
-1. Software: Latex (proficient), Matlab & Visio (mastered), etc.
-1. Language: CET-4 602, CET-6 496, experienced in academic writing
+* Programming Language: C/C++ (mastered), Nodejs & Java (competent), experienced in algorithm design
+* Platform: Linux (mastered), experienced in Windows server/Ubuntu server management
+* Development: experienced in Hyperledger Fabric (Blockchain platform) development, focusing on Chaincode and interface methods
+* Software: Latex (proficient), Matlab & Visio (mastered), etc.
+* Language: CET-4 602, CET-6 496, experienced in academic writing
  
 Last updated: 2023/06.
