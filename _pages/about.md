@@ -81,14 +81,17 @@ Research Experience
 
 Professional Activities
 -----
-**Academic Report**
-- the 2nd Distributed Control, Optimization and Security Zhizhen Academic Forum for Postgraduates, Beijing Institute of Technology
+* **Academic Report**
 
-**Reviewer**
-- IEEE/CIC International Conference on Communications in China (ICCC)
+  the 2nd Distributed Control, Optimization and Security Zhizhen Academic Forum for Postgraduates, Beijing Institute of Technology
 
-**Short Visit**
-- Tohoku University, 2018.8
+* **Reviewer**
+
+  IEEE/CIC International Conference on Communications in China (ICCC)
+
+* **Short Visit**
+
+  Tohoku University, 2018.8
 
 Technical Abilities
 -----
