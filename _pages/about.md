@@ -59,25 +59,25 @@ Research Experience
 ------
 * **Incentive Analysis in Blockchain Consensus**, 2023.6 – Present
   
-- Survey the consensus and incentives in blockchain platforms
+  Survey the consensus and incentives in blockchain platforms
   
-- Analysis the rationality of incentives using game theory
+  Analysis the rationality of incentives using game theory
   
 * **Incentive Design for Crowdsensing via Blockchain**, 2021.7 – Present
   
-- Realize a decentralized crowdsensing system based on blockchain
+  Realize a decentralized crowdsensing system based on blockchain
   
-- Design secure and privacy-preserving incentive mechanisms under blockchain architecture
+  Design secure and privacy-preserving incentive mechanisms under blockchain architecture
   
 * **Crowdsourcing Task Diffusion based on Social Network**, 2020.6 – 2021.6
   
-- Realize the crowdsourcing task diffusion based on social network
+  Realize the crowdsourcing task diffusion based on social network
   
-- Maximize infuence within social network and design incentive
+  Maximize infuence within social network and design incentive
   
 * **Robust Incentive Mechanism Design for Crowdsensing**, 2019.4 – 2020.5
   
-- Design robust incentive mechanisms for crowdsensing system
+  Design robust incentive mechanisms for crowdsensing system
 
 Professional Activities
 -----
