@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Y Zhou's AcademicPage"
+title                    : "Y Zhou's Page"
 title_separator          : "-"
 name                     : &name "Yuanhang Zhou"
 description              : &description "Post-graduate Student"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yuanhang Zhou"
-  avatar           : "hongxia.jpg"
+  avatar           : "Zhou2023.jpg"
   bio              : "Pursuing M.Eng. at School of Cyberscience and Engineering, Southeast University"
   location         : "Nanjing, Jiangsu, China"
   employer         :
