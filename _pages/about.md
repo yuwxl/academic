@@ -10,9 +10,9 @@ redirect_from:
 
 Short Bios
 ------
-I am a post-graduate student at [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/), advisor: [Prof. Fei Tong](https://cyber.seu.edu.cn/tf4/list.htm). I received my B. Eng. from [Nanjing University of Posts and Telecommuncation](http://www.njupt.edu.cn/) in 2021, advisor: [Prof. Jia Xu](https://xujia-njupt.github.io/xujia.github.io/). **I am applying for Ph.D. in *Computer Security* and *Computer Science*.** Please drop me an email (zhouyh1999@gmail.com) if you have any interest.
+I am a post-graduate student at [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/), advisor: [Prof. Fei Tong](https://cyber.seu.edu.cn/tf4/list.htm). I received my B. Eng. from [Nanjing University of Posts and Telecommuncation](http://www.njupt.edu.cn/) in 2021, advisor: [Prof. Jia Xu](https://xujia-njupt.github.io/xujia.github.io/). **I am applying for Ph.D. in *Computer Science (CS)* or *Computer Engineering (CE)*.** Please drop me an email (zhouyh1999@gmail.com) if you have any interest.
 
-My [CV (Chinese)](/files/resume_Chinese.pdf) or [CV (English)](/files/resume_English.pdf).
+My [CV (中文)](/files/CV_Chinese.pdf) or [CV (English)](/files/CV_English.pdf).
 
 Research Interests
 ------
@@ -57,6 +57,12 @@ Department of Computer Science and Engineering, advisor: [Jianyu Niu](https://ji
 
 Research Experience
 ------
+* **Dynamic Consensus for Intelligent Transportation**, 2023.6 – Present
+  
+  Design and realize transportation decision for intelligent transportation (V2X)
+  
+	Consider dynamic participation in consensus
+  
 * **Incentive Analysis in Blockchain Consensus**, 2023.6 – Present
   
   Survey the consensus and incentives in blockchain platforms
@@ -71,9 +77,7 @@ Research Experience
   
 * **Crowdsourcing Task Diffusion based on Social Network**, 2020.6 – 2021.6
   
-  Realize the crowdsourcing task diffusion based on social network
-  
-  Maximize infuence within social network and design incentive
+  Realize the crowdsourcing task diffusion based on social network for influence maximization
   
 * **Robust Incentive Mechanism Design for Crowdsensing**, 2019.4 – 2020.5
   
@@ -93,6 +97,8 @@ Professional Activities
 
   Tohoku University, 2018.8
 
+  Learning frontier technology in Computers and Electronics
+
 Technical Abilities
 -----
 * Programming Language: C/C++ (mastered), Nodejs & Java (competent), experienced in algorithm design
@@ -101,4 +107,4 @@ Technical Abilities
 * Software: Latex (proficient), Matlab & Visio (mastered), etc.
 * Language: CET-4 602, CET-6 496, experienced in academic writing
  
-Last updated: 2023/06.
+Last updated: 2023/07.
