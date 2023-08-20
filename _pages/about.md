@@ -108,4 +108,4 @@ Technical Abilities
 * Software: Latex (proficient), Matlab & Visio (mastered), etc.
 * Language: CET-4 602, CET-6 496, experienced in academic writing
  
-Last updated: 2023/07.
+Last updated: 2023/08.
