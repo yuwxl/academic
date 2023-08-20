@@ -10,7 +10,7 @@ redirect_from:
 
 Short Bios
 ------
-I am a post-graduate student at [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/), advisor: [Prof. Fei Tong](https://cyber.seu.edu.cn/tf4/list.htm). I received my B. Eng. from [Nanjing University of Posts and Telecommuncation](http://www.njupt.edu.cn/) in 2021, advisor: [Prof. Jia Xu](https://xujia-njupt.github.io/xujia.github.io/). **I am applying for Ph.D. in *Computer Science (CS)* or *Computer Engineering (CE)*.** Please drop me an email (zhouyh1999@gmail.com) if you have any interest.
+I am a post-graduate student at [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/), advisor: [Prof. Fei Tong](https://cyber.seu.edu.cn/tf4/list.htm). I received my B. Eng. from [Nanjing University of Posts and Telecommuncation](http://www.njupt.edu.cn/) in 2021, advisor: [Prof. Jia Xu](https://xujia-njupt.github.io/xujia.github.io/). **I am applying for Ph.D. in *Computer Science (CS)* or *Electrical and Computer Engineering (ECE)*.** Please drop me an email (zhouyh1999@gmail.com) if you have any interest.
 
 My [CV (中文)](/files/CV_Chinese.pdf) or [CV (English)](/files/CV_English.pdf).
 
@@ -24,9 +24,10 @@ Preprints
 ------
 1. **Yuanhang Zhou**, Fei Tong, Kaiming Wang, et al., “Privacy-Preserving Incentive Mechanism Architecture
 for Mobile Crowdsensing based on Blockchain,” **IEEE Transactions on Dependable and Secure Computing (TDSC)**. **Major Revision** (Revision submitted). 2023.
+1. Fei Tong, Jiuhe Liu, **Yuanhang Zhou**, et al., “BAC-IDS: A Blockchain-Assisted Collaborative Intrusion Detection System for Smart Home IoT,” **IEEE Internet of Things Journal (IoTJ)**. Submitted. 2023.
 1. “Towards Efficient, Robust, and Privacy-preserving Incentives for Crowdsensing via Blockchain,” Under
 research. 2023.
-1. “BAC-IDS: A Blockchain-Assisted Collaborative Intrusion Detection System for Smart Home IoT,” Under research. 2023.
+1. MIC: A Framework with Reliable Consensus for Intelligent Transportation,'' Under research. 2023.
 
 Publications
 ------
@@ -45,10 +46,10 @@ Patents
 
 Honors
 ------
-1. National Scholarship, *Ministry of Education*, 2022
-1. 1st “Huawei Cup” Network Security Innovation Competition, Third Prize, 2022
-1. First Class Postgraduate Academic Scholarship, *Southeast University*, 2021
-1. Excellent Graduation Thesis, *Nanjing University of Posts and Telecommunication*, 2021
+1. National Scholarship, *Ministry of Education*, 2022.
+1. 1st “Huawei Cup” Network Security Innovation Competition, Third Prize, 2022.
+1. First Class Postgraduate Academic Scholarship, *Southeast University*, 2021.
+1. Excellent Graduation Thesis, *Nanjing University of Posts and Telecommunication*, 2021.
 
 Employment
 ------
@@ -57,29 +58,29 @@ Department of Computer Science and Engineering, advisor: [Jianyu Niu](https://ji
 
 Research Experience
 ------
-* **Dynamic Consensus for Intelligent Transportation**, 2023.6 – Present
+* **Dynamic Consensus for Intelligent Transportation**, 2023.6 – Present.
   
   Design and realize transportation decision for intelligent transportation (V2X)
   
 	Consider dynamic participation in consensus
   
-* **Incentive Analysis in Blockchain Consensus**, 2023.6 – Present
+* **Incentive Analysis in Blockchain Consensus**, 2023.6 – Present.
   
   Survey the consensus and incentives in blockchain platforms
   
   Analysis the rationality of incentives using game theory
   
-* **Incentive Design for Crowdsensing via Blockchain**, 2021.7 – Present
+* **Incentive Design for Crowdsensing via Blockchain**, 2021.7 – Present.
   
   Realize a decentralized crowdsensing system based on blockchain
   
   Design secure and privacy-preserving incentive mechanisms under blockchain architecture
   
-* **Crowdsourcing Task Diffusion based on Social Network**, 2020.6 – 2021.6
+* **Crowdsourcing Task Diffusion based on Social Network**, 2020.6 – 2021.6.
   
   Realize the crowdsourcing task diffusion based on social network for influence maximization
   
-* **Robust Incentive Mechanism Design for Crowdsensing**, 2019.4 – 2020.5
+* **Robust Incentive Mechanism Design for Crowdsensing**, 2019.4 – 2020.5.
   
   Design robust incentive mechanisms for crowdsensing system
 
