@@ -27,7 +27,7 @@ for Mobile Crowdsensing based on Blockchain,” **IEEE Transactions on Dependabl
 1. Fei Tong, Jiuhe Liu, **Yuanhang Zhou**, et al., “BAC-IDS: A Blockchain-Assisted Collaborative Intrusion Detection System for Smart Home IoT,” **IEEE Internet of Things Journal (IoTJ)**. Submitted. 2023.
 1. “Towards Efficient, Robust, and Privacy-preserving Incentives for Crowdsensing via Blockchain,” Under
 research. 2023.
-1. MIC: A Framework with Reliable Consensus for Intelligent Transportation,'' Under research. 2023.
+1. “MIC: A Framework with Reliable Consensus for Intelligent Transportation,” Under research. 2023.
 
 Publications
 ------
