@@ -12,6 +12,8 @@ Short Bios
 ------
 I am a post-graduate student at [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/), advisor: [Prof. Fei Tong](https://cyber.seu.edu.cn/tf4/list.htm). I received my B. Eng. from [Nanjing University of Posts and Telecommuncation](http://www.njupt.edu.cn/) in 2021, advisor: [Prof. Jia Xu](https://xujia-njupt.github.io/xujia.github.io/). **I am applying for Ph.D. in *Computer Science (CS)* or *Electrical and Computer Engineering (ECE)*.** Please drop me an email (zhouyh1999@gmail.com) if you have any interest.
 
+欢迎方向相近的同学和老师一起交流合作
+
 My [CV (中文)](/files/CV_Chinese.pdf) or [CV (English)](/files/CV_English.pdf).
 
 Research Interests
@@ -22,11 +24,10 @@ Research Interests
 
 Preprints
 ------
-1. **Yuanhang Zhou**, Fei Tong, Kaiming Wang, et al., “Privacy-Preserving Incentive Mechanism Architecture
-for Mobile Crowdsensing based on Blockchain,” submitted to IEEE Transactions on Dependable and Secure Computing (TDSC), Major Revision (Revision submitted).
+1. **Yuanhang Zhou**, Fei Tong, Kaiming Wang, et al., “Privacy-Preserving Incentive Mechanism Architecture for Mobile Crowdsensing based on Blockchain,” submitted to IEEE Transactions on Dependable and Secure Computing (TDSC), Major Revision (Revision submitted).
 1. Fei Tong, Jiuhe Liu, **Yuanhang Zhou**, et al., “BAC-IDS: A Blockchain-Assisted Collaborative Intrusion Detection System for Smart Home IoT,” submitted to IEEE Internet of Things Journal (IoTJ), Under review.
 1. First Author, “Towards Efficient, Robust, and Privacy-preserving Incentives for Crowdsensing via Blockchain,” Under research. Target: IEEE Transactions on Services Computing (TSC).
-1. First Author, “MIC: A Framework with Reliable Consensus for Intelligent Transportation,” Under research. Target: IEEE Transactions on Intelligent Transportation Systems (TITS).
+1. First Author, “Towards Consensus Enabled Collaborative Vehicles in Intelligent Transportation,” Under research. Target: IEEE Transactions on Intelligent Transportation Systems (TITS).
 
 Publications
 ------
@@ -45,6 +46,7 @@ Patents
 
 Honors
 ------
+1. National Scholarship, *Ministry of Education*, 2023.
 1. National Scholarship, *Ministry of Education*, 2022.
 1. 1st “Huawei Cup” Network Security Innovation Competition, Third Prize, 2022.
 1. First Class Postgraduate Academic Scholarship, *Southeast University*, 2021.
@@ -52,7 +54,7 @@ Honors
 
 Employment
 ------
-Visiting Student in *Southern University of Science and Technology (SUSTech)*, 2023.6 -- Present.
+Visiting Student in *Southern University of Science and Technology (SUSTech)*, 2023.6 -- 2023.10.
 Department of Computer Science and Engineering, advisor: [Jianyu Niu](https://jianyu-niu.github.io/).
 
 Research Experience
@@ -61,7 +63,7 @@ Research Experience
   
   Design and realize transportation decision for intelligent transportation (V2X)
   
-	Consider dynamic participation in consensus
+  Consider dynamic participation in consensus
   
 * **Incentive Analysis in Blockchain Consensus**, 2023.6 – Present.
   
@@ -105,6 +107,6 @@ Technical Abilities
 * Platform: Linux (mastered), experienced in Windows server/Ubuntu server management
 * Development: experienced in Hyperledger Fabric (Blockchain platform) development, focusing on Chaincode and interface methods
 * Software: Latex (proficient), Matlab & Visio (mastered), etc.
-* Language: CET-4 602, CET-6 496, experienced in academic writing
+* Language: TOEFL 102(R28 L27 S22 W25), experienced in academic writing
  
-Last updated: 2023/08.
+Last updated: 2023/10.
