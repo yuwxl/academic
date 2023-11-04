@@ -10,7 +10,9 @@ redirect_from:
 
 Short Bios
 ------
-I am a post-graduate student at [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/), advisor: [Prof. Fei Tong](https://cyber.seu.edu.cn/tf4/list.htm). I received my B. Eng. from [Nanjing University of Posts and Telecommuncation](http://www.njupt.edu.cn/) in 2021, advisor: [Prof. Jia Xu](https://xujia-njupt.github.io/xujia.github.io/). **I am applying for Ph.D. in *Computer Science (CS)* or *Electrical and Computer Engineering (ECE)*.** Please drop me an email (zhouyh1999@gmail.com) if you have any interest.
+I am a post-graduate student at [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/), advisor: [Prof. Fei Tong](https://cyber.seu.edu.cn/tf4/list.htm). I received my B. Eng. from [Nanjing University of Posts and Telecommuncation](http://www.njupt.edu.cn/) in 2021, advisor: [Prof. Jia Xu](https://xujia-njupt.github.io/xujia.github.io/). 
+
+**I am applying for Ph.D. in *Computer Science (CS)* or *Electrical and Computer Engineering (ECE)*.** Please drop me an email (zhouyh1999@gmail.com) if you have any interest.
 
 欢迎方向相近的同学和老师一起交流合作
 
@@ -20,7 +22,7 @@ Research Interests
 ------
 **Blockchain**: Blockchain Application, Security and Privacy, Applied Cryptography
 
-**Crowdsensing**: Incentive Mechanism, Optimization, Influence Maximization
+**Crowdsensing**: Incentive Mechanism, Optimization, Influence Maximization^\vartriangle
 
 Preprints
 ------
@@ -66,7 +68,7 @@ Research Experience
   
   Consider dynamic participation in consensus
   
-* **Incentive Analysis in Blockchain Consensus**, 2023.6 – Present.
+* **Incentive Analysis in Blockchain Consensus**, 2023.6 – 2023.11.
   
   Survey the consensus and incentives in blockchain platforms
   
@@ -95,6 +97,8 @@ Professional Activities
 * **Reviewer**
 
   IEEE/CIC International Conference on Communications in China (ICCC)
+  
+  Peer-to-Peer Networking and Applications (PPNA)
 
 * **Short Visit**
 
