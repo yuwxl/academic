@@ -20,9 +20,9 @@ My [CV (中文)](/files/CV_Chinese.pdf) or [CV (English)](/files/CV_English.pdf)
 
 Research Interests
 ------
-**Blockchain**: Blockchain Application, Security and Privacy, Applied Cryptography
+**Blockchain**: Blockchain Application, Security and Privacy, Applied Cryptography, Consensus
 
-**Crowdsensing**: Incentive Mechanism, Optimization, Influence Maximization^\vartriangle
+**Crowdsensing**: Incentive Mechanism, Optimization $^\vartriangle$, Influence Maximization $^\vartriangle$
 
 Preprints
 ------
@@ -35,8 +35,8 @@ Publications
 ------
 1. **<small>[TMC'22]</small>** **Yuanhang Zhou**, Fei Tong, and Shibo He, “[Bi-objective Incentive Mechanism for Mobile Crowdsensing with Budget/Cost Constraint](https://ieeexplore.ieee.org/abstract/document/9992184),” **IEEE Transactions on Mobile Computing (TMC)**. 2022. **CCF-A**.
 1. **<small>[TOIT'22]</small>** Jia Xu, **Yuanhang Zhou**, Gongyu Chen, et al., “[Topic-aware Incentive Mechanism for Task Diffusion in Mobile Crowdsourcing through Social Network](https://dl.acm.org/doi/abs/10.1145/3487580),” **ACM Transactions on Internet Technology**. 2022. **CCF-B**.
-1. **<small>[IoTJ'21]</small>** Jia Xu, **Yuanhang Zhou**, Yuqing Ding, et al., “[Biobjective Robust Incentive Mechanism Design for Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9403382),” **IEEE Internet of Things Journal (IoTJ)**. 2021. **JCR Q1**.
-1. **<small>[TVT'21]</small>** Jia Xu, Gongyu Chen, **Yuanhang Zhou**, et al., “[Incentive Mechanisms for Large-Scale Crowdsourcing Task Diffusion Based on Social Influence](https://ieeexplore.ieee.org/abstract/document/9369101),” **IEEE Transactions on Vehicular Technology (TVT)**. 2021. **JCR Q1**.
+1. **<small>[IoTJ'21]</small>** Jia Xu, **Yuanhang Zhou**, Yuqing Ding, et al., “[Biobjective Robust Incentive Mechanism Design for Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9403382),” **IEEE Internet of Things Journal (IoTJ)**. 2021.
+1. **<small>[TVT'21]</small>** Jia Xu, Gongyu Chen, **Yuanhang Zhou**, et al., “[Incentive Mechanisms for Large-Scale Crowdsourcing Task Diffusion Based on Social Influence](https://ieeexplore.ieee.org/abstract/document/9369101),” **IEEE Transactions on Vehicular Technology (TVT)**. 2021.
 
 Patents
 ------
@@ -52,6 +52,7 @@ Honors
 1. Pacemaker to Merit Student, *Southeast University*, 2023. 
 1. National Scholarship, *Ministry of Education*, 2022.
 1. 1st “Huawei Cup” Network Security Innovation Competition, Third Prize, 2022.
+1. Second Class Postgraduate Academic Scholarship, *Southeast University*, 2022.
 1. First Class Postgraduate Academic Scholarship, *Southeast University*, 2021.
 1. Excellent Graduation Thesis, *Nanjing University of Posts and Telecommunication*, 2021.
 
