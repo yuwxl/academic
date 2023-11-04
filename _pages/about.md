@@ -26,8 +26,8 @@ Preprints
 ------
 1. **Yuanhang Zhou**, Fei Tong, Kaiming Wang, et al., “Privacy-Preserving Incentive Mechanism Architecture for Mobile Crowdsensing based on Blockchain,” submitted to IEEE Transactions on Dependable and Secure Computing (TDSC), Major Revision (Revision submitted).
 1. Fei Tong, Jiuhe Liu, **Yuanhang Zhou**, et al., “BAC-IDS: A Blockchain-Assisted Collaborative Intrusion Detection System for Smart Home IoT,” submitted to IEEE Internet of Things Journal (IoTJ), Under review.
-1. First Author, “Towards Efficient, Robust, and Privacy-preserving Incentives for Crowdsensing via Blockchain,” Under research. Target: IEEE Transactions on Services Computing (TSC).
-1. First Author, “Towards Consensus Enabled Collaborative Vehicles in Intelligent Transportation,” Under research. Target: IEEE Transactions on Intelligent Transportation Systems (TITS).
+1. “Towards Efficient, Robust, and Privacy-preserving Incentives for Crowdsensing via Blockchain,” Under research.
+1. “Towards Consensus Enabled Collaborative Vehicles in Intelligent Transportation,” Under research. Target: IEEE Transactions on Intelligent Transportation Systems (TITS).
 
 Publications
 ------
@@ -47,6 +47,7 @@ Patents
 Honors
 ------
 1. National Scholarship, *Ministry of Education*, 2023.
+1. Pacemaker to Merit Student, *Southeast University*, 2023. 
 1. National Scholarship, *Ministry of Education*, 2022.
 1. 1st “Huawei Cup” Network Security Innovation Competition, Third Prize, 2022.
 1. First Class Postgraduate Academic Scholarship, *Southeast University*, 2021.
@@ -109,4 +110,4 @@ Technical Abilities
 * Software: Latex (proficient), Matlab & Visio (mastered), etc.
 * Language: TOEFL 102(R28 L27 S22 W25), experienced in academic writing
  
-Last updated: 2023/10.
+Last updated: 2023/11.
