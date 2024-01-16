@@ -20,16 +20,16 @@ My [CV (中文)](/files/CV_Chinese.pdf) or [CV (English)](/files/CV_English.pdf)
 
 Research Interests
 ------
-**Blockchain**: Blockchain Application, Security and Privacy, Applied Cryptography, Consensus
+**Blockchain**: Blockchain Application, Security and Privacy, Applied Cryptography
 
 **Crowdsensing**: Incentive Mechanism, Optimization $^\vartriangle$, Influence Maximization $^\vartriangle$
 
 Preprints
 ------
-1. **Yuanhang Zhou**, Fei Tong, Kaiming Wang, et al., “Privacy-Preserving Incentive Mechanism Architecture for Mobile Crowdsensing based on Blockchain,” submitted to IEEE Transactions on Dependable and Secure Computing (TDSC), Major Revision (Revision submitted).
-1. Fei Tong, Jiuhe Liu, **Yuanhang Zhou**, et al., “BAC-IDS: A Blockchain-Assisted Collaborative Intrusion Detection System for Smart Home IoT,” submitted to IEEE Internet of Things Journal (IoTJ), Under review.
+1. **Yuanhang Zhou**, Fei Tong, Kaiming Wang, et al., “Privacy-Preserving Incentive Mechanism Architecture for Mobile Crowdsensing based on Blockchain,” submitted to IEEE Transactions on Dependable and Secure Computing (TDSC), Minor Revision.
+1. Fei Tong, Jiuhe Liu, **Yuanhang Zhou**, et al., “BAC-IDS: A Blockchain-Assisted Collaborative Intrusion Detection System for Smart Home IoT,” submitted to IEEE Transactions on Information Forensics & Security (TIFS), Under review.
+1. **Yuanhang Zhou**, Shubo Peng, Hanzheng Lyu, et al., “KLOTSKI: Towards Consensus Enabled Collaborative Vehicles in Intelligent Transportation,” submitted to IEEE Transactions on Intelligent Transportation Systems (TITS), Under review.
 1. “Towards Efficient, Robust, and Privacy-preserving Incentives for Crowdsensing via Blockchain,” Under research.
-1. “Towards Consensus Enabled Collaborative Vehicles in Intelligent Transportation,” Under research. Target: IEEE Transactions on Intelligent Transportation Systems (TITS).
 
 Publications
 ------
@@ -63,7 +63,9 @@ Department of Computer Science and Engineering, advisor: [Jianyu Niu](https://ji
 
 Research Experience
 ------
-* **Dynamic Consensus for Intelligent Transportation**, 2023.6 – Present.
+* **Off-chain Smart Contracts**, 2023.10 – Present.
+  
+* **Consensus for Intelligent Transportation**, 2023.6 – 2024.1.
   
   Design and realize transportation decision for intelligent transportation (V2X)
   
@@ -75,7 +77,7 @@ Research Experience
   
   Analysis the rationality of incentives using game theory
   
-* **Incentive Design for Crowdsensing via Blockchain**, 2021.7 – Present.
+* **Incentive Design for Crowdsensing via Blockchain**, 2021.7 – 2024.1.
   
   Realize a decentralized crowdsensing system based on blockchain
   
@@ -113,6 +115,6 @@ Technical Abilities
 * Platform: Linux (mastered), experienced in Windows server/Ubuntu server management
 * Development: experienced in Hyperledger Fabric (Blockchain platform) development, focusing on Chaincode and interface methods
 * Software: Latex (proficient), Matlab & Visio (mastered), etc.
-* Language: TOEFL 102(R28 L27 S22 W25), experienced in academic writing
+* Language: TOEFL 102 (R28 L27 S22 W25), experienced in academic writing
  
-Last updated: 2023/11.
+Last updated: 2024/01.
