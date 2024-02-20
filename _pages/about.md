@@ -26,18 +26,19 @@ Research Interests
 
 Preprints
 ------
-1. **Yuanhang Zhou**, Shubo Peng, Hanzheng Lyu, et al., “KLOTSKI: Towards Consensus Enabled Collaborative Vehicles in Intelligent Transportation,” submitted to IEEE Transactions on Intelligent Transportation Systems (TITS), Under review.
-1. Fei Tong, Jiuhe Liu, **Yuanhang Zhou**, et al., “BAC-IDS: A Blockchain-Assisted Collaborative Intrusion Detection System for Smart Home IoT,” submitted to IEEE Transactions on Information Forensics & Security (TIFS), Under review.
+1. **Yuanhang Zhou**, Shubo Peng, Hanzheng Lyu, et al., “KLOTSKI: Towards Consensus Enabled Collaborative Vehicles in Intelligent Transportation,” submitted to *IEEE Transactions on Intelligent Transportation Systems (TITS)*, Under review.
+1. Fei Tong, Jiahe Liu, **Yuanhang Zhou**, et al., “BAC-IDS: A Blockchain-Assisted Collaborative Intrusion Detection System for Smart Home IoT,” submitted to *IEEE Transactions on Information Forensics & Security (TIFS)*, Under review.
 1. “Towards Efficient, Robust, and Privacy-preserving Incentives for Crowdsensing via Blockchain,” Under research.
 
 Publications
 ------
 #: Co-author
-1. **<small>[TDSC'24]</small>** Fei Tong, **Yuanhang Zhou#**, Kaiming Wang, et al., “A Privacy-Preserving Incentive Mechanism forMobile Crowdsensing based on Blockchain,” **IEEE Transactions on Dependable and Secure Computing (TDSC)**. 2024. **CCF-A**. (Accepted)
-1. **<small>[TMC'22]</small>** **Yuanhang Zhou**, Fei Tong, and Shibo He, “[Bi-objective Incentive Mechanism for Mobile Crowdsensing with Budget/Cost Constraint](https://ieeexplore.ieee.org/abstract/document/9992184),” **IEEE Transactions on Mobile Computing (TMC)**. 2022. **CCF-A**.
-1. **<small>[TOIT'22]</small>** Jia Xu, **Yuanhang Zhou**, Gongyu Chen, et al., “[Topic-aware Incentive Mechanism for Task Diffusion in Mobile Crowdsourcing through Social Network](https://dl.acm.org/doi/abs/10.1145/3487580),” **ACM Transactions on Internet Technology**. 2022. **CCF-B**.
-1. **<small>[IoTJ'21]</small>** Jia Xu, **Yuanhang Zhou**, Yuqing Ding, et al., “[Biobjective Robust Incentive Mechanism Design for Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9403382),” **IEEE Internet of Things Journal (IoTJ)**. 2021.
-1. **<small>[TVT'21]</small>** Jia Xu, Gongyu Chen, **Yuanhang Zhou**, et al., “[Incentive Mechanisms for Large-Scale Crowdsourcing Task Diffusion Based on Social Influence](https://ieeexplore.ieee.org/abstract/document/9369101),” **IEEE Transactions on Vehicular Technology (TVT)**. 2021.
+
+1. **<small>[TDSC'24]</small>** Fei Tong, **Yuanhang Zhou#**, Kaiming Wang, Guang Cheng, Jianyu Niu, Shibo He, “A Privacy-Preserving Incentive Mechanism for Mobile Crowdsensing based on Blockchain,” *IEEE Transactions on Dependable and Secure Computing (TDSC)*. 2024. **CCF-A**.
+1. **<small>[TMC'22]</small>** **Yuanhang Zhou**, Fei Tong, Shibo He, “[Bi-objective Incentive Mechanism for Mobile Crowdsensing with Budget/Cost Constraint](https://ieeexplore.ieee.org/abstract/document/9992184),” *IEEE Transactions on Mobile Computing (TMC)*. 2022. **CCF-A**.
+1. **<small>[TOIT'22]</small>** Jia Xu, **Yuanhang Zhou**, Gongyu Chen, Yuqing Ding, Dejun Yang, Linfeng Liu, “[Topic-aware Incentive Mechanism for Task Diffusion in Mobile Crowdsourcing through Social Network](https://dl.acm.org/doi/abs/10.1145/3487580),” *ACM Transactions on Internet Technology*. 2022. **CCF-B**.
+1. **<small>[IoTJ'21]</small>** Jia Xu, **Yuanhang Zhou**, Yuqing Ding, Dejun Yang, Lijie Xu, “[Biobjective Robust Incentive Mechanism Design for Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9403382),” *IEEE Internet of Things Journal (IoTJ)*. 2021.
+1. **<small>[TVT'21]</small>** Jia Xu, Gongyu Chen, **Yuanhang Zhou**, Zhengqiang Rao, Dejun Yang, Cuihua Xie, “[Incentive Mechanisms for Large-Scale Crowdsourcing Task Diffusion Based on Social Influence](https://ieeexplore.ieee.org/abstract/document/9369101),” *IEEE Transactions on Vehicular Technology (TVT)*. 2021.
 
 Patents
 ------
