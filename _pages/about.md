@@ -32,9 +32,7 @@ Preprints
 
 Publications
 ------
-#: Co-author
-
-1. **<small>[TDSC'24]</small>** Fei Tong, **Yuanhang Zhou#**, Kaiming Wang, Guang Cheng, Jianyu Niu, Shibo He, “A Privacy-Preserving Incentive Mechanism for Mobile Crowdsensing based on Blockchain,” *IEEE Transactions on Dependable and Secure Computing (TDSC)*. 2024. **CCF-A**.
+1. **<small>[TDSC'24]</small>** Fei Tong, **Yuanhang Zhou**, Kaiming Wang, Guang Cheng, Jianyu Niu, Shibo He, “A Privacy-Preserving Incentive Mechanism for Mobile Crowdsensing based on Blockchain,” *IEEE Transactions on Dependable and Secure Computing (TDSC)*. 2024. **CCF-A**.
 1. **<small>[TMC'22]</small>** **Yuanhang Zhou**, Fei Tong, Shibo He, “[Bi-objective Incentive Mechanism for Mobile Crowdsensing with Budget/Cost Constraint](https://ieeexplore.ieee.org/abstract/document/9992184),” *IEEE Transactions on Mobile Computing (TMC)*. 2022. **CCF-A**.
 1. **<small>[TOIT'22]</small>** Jia Xu, **Yuanhang Zhou**, Gongyu Chen, Yuqing Ding, Dejun Yang, Linfeng Liu, “[Topic-aware Incentive Mechanism for Task Diffusion in Mobile Crowdsourcing through Social Network](https://dl.acm.org/doi/abs/10.1145/3487580),” *ACM Transactions on Internet Technology*. 2022. **CCF-B**.
 1. **<small>[IoTJ'21]</small>** Jia Xu, **Yuanhang Zhou**, Yuqing Ding, Dejun Yang, Lijie Xu, “[Biobjective Robust Incentive Mechanism Design for Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9403382),” *IEEE Internet of Things Journal (IoTJ)*. 2021.
@@ -69,29 +67,13 @@ Research Experience
   
 * **Consensus for Intelligent Transportation**, 2023.6 – 2024.1.
   
-  Design and realize transportation decision for intelligent transportation (V2X)
-  
-  Consider dynamic participation in consensus
-  
 * **Incentive Analysis in Blockchain Consensus**, 2023.6 – 2023.11.
-  
-  Survey the consensus and incentives in blockchain platforms
-  
-  Analysis the rationality of incentives using game theory
   
 * **Incentive Design for Crowdsensing via Blockchain**, 2021.7 – 2024.1.
   
-  Realize a decentralized crowdsensing system based on blockchain
-  
-  Design secure and privacy-preserving incentive mechanisms under blockchain architecture
-  
 * **Crowdsourcing Task Diffusion based on Social Network**, 2020.6 – 2021.6.
   
-  Realize the crowdsourcing task diffusion based on social network for influence maximization
-  
 * **Robust Incentive Mechanism Design for Crowdsensing**, 2019.4 – 2020.5.
-  
-  Design robust incentive mechanisms for crowdsensing system
 
 Professional Activities
 -----
@@ -108,8 +90,6 @@ Professional Activities
 * **Short Visit**
 
   Tohoku University, 2018.8
-
-  Learning frontier technology in Computers and Electronics
 
 Technical Abilities
 -----
