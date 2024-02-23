@@ -32,7 +32,7 @@ Preprints
 
 Publications
 ------
-1. **<small>[TDSC'24]</small>** Fei Tong, **Yuanhang Zhou**, Kaiming Wang, Guang Cheng, Jianyu Niu, Shibo He, “A Privacy-Preserving Incentive Mechanism for Mobile Crowdsensing based on Blockchain,” *IEEE Transactions on Dependable and Secure Computing (TDSC)*. 2024. **CCF-A**.
+1. **<small>[TDSC'24]</small>** Fei Tong, **Yuanhang Zhou**, Kaiming Wang, Guang Cheng, Jianyu Niu, Shibo He, “[A Privacy-Preserving Incentive Mechanism for Mobile Crowdsensing based on Blockchain](https://ieeexplore.ieee.org/document/10443590),” *IEEE Transactions on Dependable and Secure Computing (TDSC)*. 2024. **CCF-A**.
 1. **<small>[TMC'22]</small>** **Yuanhang Zhou**, Fei Tong, Shibo He, “[Bi-objective Incentive Mechanism for Mobile Crowdsensing with Budget/Cost Constraint](https://ieeexplore.ieee.org/abstract/document/9992184),” *IEEE Transactions on Mobile Computing (TMC)*. 2022. **CCF-A**.
 1. **<small>[TOIT'22]</small>** Jia Xu, **Yuanhang Zhou**, Gongyu Chen, Yuqing Ding, Dejun Yang, Linfeng Liu, “[Topic-aware Incentive Mechanism for Task Diffusion in Mobile Crowdsourcing through Social Network](https://dl.acm.org/doi/abs/10.1145/3487580),” *ACM Transactions on Internet Technology*. 2022. **CCF-B**.
 1. **<small>[IoTJ'21]</small>** Jia Xu, **Yuanhang Zhou**, Yuqing Ding, Dejun Yang, Lijie Xu, “[Biobjective Robust Incentive Mechanism Design for Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9403382),” *IEEE Internet of Things Journal (IoTJ)*. 2021.
