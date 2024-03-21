@@ -14,7 +14,7 @@ I am a post-graduate student at [School of Cyberscience and Engineering, Southea
 
 I shall obtain my Master's degree in 2024.6. **I am looking for a Ph.D. position in *Computer Science (CS)* or *Computer Engineering (CE)*.** Please drop me an email (zhouyh1999@gmail.com) if you have any interest. Thanks a lot. (2024.3)
 
-I've included my [CV] (/files/Resume_YH Zhou.pdf) for your reference. (2024.3 update)
+I've included my [CV](/files/Resume_YH Zhou.pdf) for your reference. (2024.3 update)
 
 Research Interests
 ------
