@@ -10,9 +10,9 @@ redirect_from:
 
 Short Bios
 ------
-I am a post-graduate student at [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/), advisor: [Prof. Fei Tong](https://cyber.seu.edu.cn/tf4/list.htm). I received my B. Eng. from [Nanjing University of Posts and Telecommuncation](http://www.njupt.edu.cn/) in 2021, advisor: [Prof. Jia Xu](https://xujia-njupt.github.io/xujia.github.io/). 
+I am a post-graduate student at [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/), advisor: [Prof. Fei Tong](https://unislab.gitee.io/tong/). I received my B. Eng. from [Nanjing University of Posts and Telecommuncation](http://www.njupt.edu.cn/) in 2021, advisor: [Prof. Jia Xu](https://xujia-njupt.github.io/xujia.github.io/). 
 
-I shall obtain my Master's degree in 2024.6. **I am looking for a Ph.D. position in *Computer Science (CS)* or *Computer Engineering (CE)*.** Please drop me an email (zhouyh1999@gmail.com) if you have any interest. (2024.3)
+I shall obtain my Master's degree in 2024.6. **I am looking for a Ph.D. position in *Computer Science (CS)* or *Computer Engineering (CE)*.** Please drop me an email (zhouyh1999@gmail.com) if you have any interest. Thanks a lot. (2024.3)
 
 I've included my [CV] (/files/Resume_YH Zhou.pdf) for your reference. (2024.3 update)
 
@@ -20,7 +20,7 @@ Research Interests
 ------
 **Blockchain**: Blockchain Application, Security and Privacy, Applied Cryptography
 
-**Crowdsensing**: Incentive Mechanism, Optimization $^\vartriangle$, Influence Maximization $^\vartriangle$
+**Crowdsensing**: Incentive Mechanism, Optimization
 
 Preprints
 ------
@@ -95,6 +95,7 @@ Technical Abilities
 * Platform: Linux (mastered), experienced in Windows server/Ubuntu server management
 * Development: experienced in Hyperledger Fabric (Blockchain platform) development, focusing on Chaincode and interface methods
 * Software: Latex (proficient), Matlab & Visio (mastered), etc.
-* Language: TOEFL 102 (R28 L27 S22 W25), experienced in academic writing
+* Language: **TOEFL 102 (R28 L27 S22 W25)**, experienced in academic writing
+
  
 Last updated: 2024/03.
