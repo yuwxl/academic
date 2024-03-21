@@ -12,11 +12,9 @@ Short Bios
 ------
 I am a post-graduate student at [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/), advisor: [Prof. Fei Tong](https://cyber.seu.edu.cn/tf4/list.htm). I received my B. Eng. from [Nanjing University of Posts and Telecommuncation](http://www.njupt.edu.cn/) in 2021, advisor: [Prof. Jia Xu](https://xujia-njupt.github.io/xujia.github.io/). 
 
-**I am applying for Ph.D. in *Computer Science (CS)* or *Electrical and Computer Engineering (ECE)*.** Please drop me an email (zhouyh1999@gmail.com) if you have any interest.
+I shall obtain my Master's degree in 2024.6. **I am looking for a Ph.D. position in *Computer Science (CS)* or *Computer Engineering (CE)*.** Please drop me an email (zhouyh1999@gmail.com) if you have any interest. (2024.3)
 
-欢迎方向相近的同学和老师一起交流合作
-
-My [CV (中文)](/files/CV_Chinese.pdf) or [CV (English)](/files/CV_English.pdf).
+I've included my [CV] (/files/Resume_YH Zhou.pdf) for your reference. (2024.3 update)
 
 Research Interests
 ------
@@ -99,4 +97,4 @@ Technical Abilities
 * Software: Latex (proficient), Matlab & Visio (mastered), etc.
 * Language: TOEFL 102 (R28 L27 S22 W25), experienced in academic writing
  
-Last updated: 2024/02.
+Last updated: 2024/03.
