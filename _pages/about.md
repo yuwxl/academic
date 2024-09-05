@@ -12,8 +12,6 @@ Short Bios
 ------
 I am a post-graduate student at [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/), advisor: [Prof. Fei Tong](https://unislab.gitee.io/tong/). I received my B. Eng. from [Nanjing University of Posts and Telecommuncation](http://www.njupt.edu.cn/) in 2021, advisor: [Prof. Jia Xu](https://xujia-njupt.github.io/xujia.github.io/). 
 
-I will be pursuing my Ph.D. degree in Electrical and Computer Engineering, at the University of Waterloo from Sept. 2024.
-
 I've included my [CV](/files/Resume_YH Zhou.pdf) for your reference.
 
 Research Interests
