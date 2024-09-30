@@ -10,9 +10,9 @@ redirect_from:
 
 Short Bios
 ------
-I am a post-graduate student at [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/), advisor: [Prof. Fei Tong](https://unislab.gitee.io/tong/). I received my B. Eng. from [Nanjing University of Posts and Telecommuncation](http://www.njupt.edu.cn/) in 2021, advisor: [Prof. Jia Xu](https://xujia-njupt.github.io/xujia.github.io/). 
+I received my M. Eng from [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/), advisor: [Prof. Fei Tong](https://fei-tong.github.io/). I received my B. Eng. from [Nanjing University of Posts and Telecommuncation](http://www.njupt.edu.cn/) in 2021, advisor: [Prof. Jia Xu](https://xujia-njupt.github.io/xujia.github.io/).
 
-I've included my [CV](/files/Resume_YH Zhou.pdf) for your reference.
+I've included my [CV](/files/CV_YuanhangZhou.pdf) for your reference.
 
 Research Interests
 ------
@@ -20,10 +20,14 @@ Research Interests
 
 **Crowdsensing**: Incentive Mechanism, Optimization
 
-Preprints
+Unpublished Research
 ------
 1. **Yuanhang Zhou**, Shubo Peng, Hanzheng Lyu, et al., “KLOTSKI: Towards Consensus Enabled Collaborative Vehicles in Intelligent Transportation,” submitted to *IEEE Transactions on Intelligent Transportation Systems (TITS)*, Under review.
-1. Fei Tong, Jiahe Liu, **Yuanhang Zhou**, et al., “BAC-IDS: A Blockchain-Assisted Collaborative Intrusion Detection System for Smart Home IoT,” submitted to *IEEE Transactions on Information Forensics & Security (TIFS)*, Under review.
+1. Mohan Yu, **Yuanhang Zhou**, Fei Tong, et al., “OUTTASKER: Enabling Secure Outsourced Computation
+ TransactionsviaBlockchain,” submitted to *IEEE Transactionson Information Forensics & Security(TIFS)*, Under
+ review.
+1. Mohan Yu, Fei Tong, **Yuanhang Zhou**, et al., “SPOE: Scaling Blockchain via Secure and Practical Off
+chain Execution,” submitted to *IEEE Transactions on Information Forensics & Security (TIFS)*, Under review.
 1. “Towards Efficient, Robust, and Privacy-preserving Incentives for Crowdsensing via Blockchain,” Under research.
 
 Publications
@@ -44,6 +48,7 @@ Patents
 
 Honors
 ------
+1. Outstanding Graduate, *Southeast University*, 2024.
 1. National Scholarship, *Ministry of Education*, 2023.
 1. Pacemaker to Merit Student, *Southeast University*, 2023. 
 1. National Scholarship, *Ministry of Education*, 2022.
@@ -59,13 +64,11 @@ Department of Computer Science and Engineering, advisor: [Jianyu Niu](https://ji
 
 Research Experience
 ------
-* **Off-chain Smart Contracts**, 2023.10 – Present.
+* **Confidential Smart Contracts**, 2023.11 – 2024.6.
   
-* **Consensus for Intelligent Transportation**, 2023.6 – 2024.1.
+* **Dynamic Consensus for Intelligent Transportation**, 2023.6 – 2024.1.
   
-* **Incentive Analysis in Blockchain Consensus**, 2023.6 – 2023.11.
-  
-* **Incentive Design for Crowdsensing via Blockchain**, 2021.7 – 2024.1.
+* **Incentive Design for Crowdsensing via Blockchain**, 2021.9 – 2023.5.
   
 * **Crowdsourcing Task Diffusion based on Social Network**, 2020.6 – 2021.6.
   
@@ -96,4 +99,4 @@ Technical Abilities
 * Language: **TOEFL 102 (R28 L27 S22 W25)**, experienced in academic writing
 
  
-Last updated: 2024/05.
+Last updated: 2024/09.
