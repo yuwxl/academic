@@ -10,33 +10,25 @@ redirect_from:
 
 Short Bios
 ------
-My name is Yuanhang Zhou. I received my M. Eng from [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/), advisor: [Prof. Fei Tong](https://fei-tong.github.io/). I received my B. Eng. from [Nanjing University of Posts and Telecommuncation](http://www.njupt.edu.cn/) in 2021, advisor: [Prof. Jia Xu](https://xujia-njupt.github.io/xujia.github.io/).
+My name is Mohan Yu. I received my M. Eng from [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/), advisor: [Prof. Fei Tong](https://fei-tong.github.io/). I received my B. Eng. from [Anhui University of Technology](https://www.ahut.edu.cn/) in 2021, advisor: [Prof. Heng Liu](https://www.scholarmate.com/P/bqeqAn).
 
 I've included my [CV](/files/CV_YuanhangZhou.pdf) for your reference.
 
 Research Interests
 ------
-**Blockchain**: Blockchain Application, Security and Privacy, Applied Cryptography
+**Blockchain**: Blockchain Scalability, Off-chain Computation
 
-**Crowdsensing**: Incentive Mechanism, Optimization
+**Privacy and Security**: Applied Cryptography, Trusted Environment Execution
 
 Unpublished Research
 ------
-1. **Yuanhang Zhou**, Shubo Peng, Hanzheng Lyu, et al., “KLOTSKI: Towards Consensus Enabled Collaborative Vehicles in Intelligent Transportation,” submitted to *IEEE Transactions on Intelligent Transportation Systems (TITS)*, Under review.
-1. Mohan Yu, **Yuanhang Zhou**, Fei Tong, et al., “OUTTASKER: Enabling Secure Outsourced Computation
- TransactionsviaBlockchain,” submitted to *IEEE Transactionson Information Forensics & Security(TIFS)*, Under
- review.
-1. Mohan Yu, Fei Tong, **Yuanhang Zhou**, et al., “SPOE: Scaling Blockchain via Secure and Practical Off
-chain Execution,” submitted to *IEEE Transactions on Information Forensics & Security (TIFS)*, Under review.
-1. “Towards Efficient, Robust, and Privacy-preserving Incentives for Crowdsensing via Blockchain,” Under research.
+1. **Mohan Yu**, Fei Tong, Yuanhang Zhou, et al., “SPOE: Scaling Blockchain via Secure and Practical Off-chain Execution,” submitted to *IEEE Transactions on Intelligent Transportation Systems (TITS)*, Under review.
+1. Kaiming Wang, Fei Tong, **Mohan Yu**, et al. “A Blockchain-Assisted Secure and Lightweight Cross-Domain Authentication for Internet of Things,” submitted to *IEEE Internet of Things Journal (IoTJ)*, Under review.
+
 
 Publications
 ------
-1. **<small>[TDSC'24]</small>** Fei Tong, **Yuanhang Zhou**, Kaiming Wang, Guang Cheng, Jianyu Niu, Shibo He, “[A Privacy-Preserving Incentive Mechanism for Mobile Crowdsensing based on Blockchain](https://ieeexplore.ieee.org/document/10443590),” *IEEE Transactions on Dependable and Secure Computing (TDSC)*. 2024. **CCF-A**.
-1. **<small>[TMC'22]</small>** **Yuanhang Zhou**, Fei Tong, Shibo He, “[Bi-objective Incentive Mechanism for Mobile Crowdsensing with Budget/Cost Constraint](https://ieeexplore.ieee.org/abstract/document/9992184),” *IEEE Transactions on Mobile Computing (TMC)*. 2022. **CCF-A**.
-1. **<small>[TOIT'22]</small>** Jia Xu, **Yuanhang Zhou**, Gongyu Chen, Yuqing Ding, Dejun Yang, Linfeng Liu, “[Topic-aware Incentive Mechanism for Task Diffusion in Mobile Crowdsourcing through Social Network](https://dl.acm.org/doi/abs/10.1145/3487580),” *ACM Transactions on Internet Technology*. 2022. **CCF-B**.
-1. **<small>[IoTJ'21]</small>** Jia Xu, **Yuanhang Zhou**, Yuqing Ding, Dejun Yang, Lijie Xu, “[Biobjective Robust Incentive Mechanism Design for Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9403382),” *IEEE Internet of Things Journal (IoTJ)*. 2021.
-1. **<small>[TVT'21]</small>** Jia Xu, Gongyu Chen, **Yuanhang Zhou**, Zhengqiang Rao, Dejun Yang, Cuihua Xie, “[Incentive Mechanisms for Large-Scale Crowdsourcing Task Diffusion Based on Social Influence](https://ieeexplore.ieee.org/abstract/document/9369101),” *IEEE Transactions on Vehicular Technology (TVT)*. 2021.
+1. **Mohan Yu**, Heng Liu, “[FML-MIS: A Scheme of Privacy Protection and Model Generalization for Medical Images Segmentation via Federated Meta-learning,](https://ieeexplore.ieee.org/abstract/document/9992184),” *International Conference on Image and Graphics(ICIG)*. 2023.
 
 Patents
 ------
