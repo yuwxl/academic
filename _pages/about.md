@@ -12,7 +12,6 @@ Short Bios
 ------
 My name is Mohan Yu. I am pursuing a Master's degree at the [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/), advisor: [Prof. Fei Tong](https://fei-tong.github.io/). I received my B. Eng. from [Anhui University of Technology](https://www.ahut.edu.cn/) in 2022, advisor: [Prof. Heng Liu](https://www.scholarmate.com/P/bqeqAn).
 
-#I've included my [CV](/files/CV-yumohan.pdf) for your reference.
 
 Research Interests
 ------
@@ -23,12 +22,12 @@ Research Interests
 Unpublished Research
 ------
 1. **Mohan Yu**, Fei Tong, Yuanhang Zhou, et al., “SPOE: Scaling Blockchain via Secure and Practical Off-chain Execution,” submitted to *IEEE Transactions on Intelligent Transportation Systems (TITS)*, Under review.
-1. Kaiming Wang, Fei Tong, **Mohan Yu**, et al. “A Blockchain-Assisted Secure and Lightweight Cross-Domain Authentication for Internet of Things,” submitted to *IEEE Internet of Things Journal (IoTJ)*, Under review.
+1. Kaiming Wang, Fei Tong, **Mohan Yu**, et al., “A Blockchain-Assisted Secure and Lightweight Cross-Domain Authentication for Internet of Things,” submitted to *IEEE Internet of Things Journal (IoTJ)*, Under review.
 
 
 Publications
 ------
-1. **Mohan Yu**, Heng Liu, “[FML-MIS: A Scheme of Privacy Protection and Model Generalization for Medical Images Segmentation via Federated Meta-learning,](https://dl.acm.org/doi/10.1007/978-3-031-46314-3_11),” *International Conference on Image and Graphics(ICIG)*. 2023.
+1. **Mohan Yu**, Heng Liu, “[FML-MIS: A Scheme of Privacy Protection and Model Generalization for Medical Images Segmentation via Federated Meta-learning,](https://dl.acm.org/doi/10.1007/978-3-031-46314-3_11),” *International Conference on Image and Graphics (ICIG)*. 2023.
 
 Honors
 ------
