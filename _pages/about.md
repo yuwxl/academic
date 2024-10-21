@@ -10,7 +10,7 @@ redirect_from:
 
 Short Bios
 ------
-My name is Mohan Yu. I received my M. Eng from [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/), advisor: [Prof. Fei Tong](https://fei-tong.github.io/). I received my B. Eng. from [Anhui University of Technology](https://www.ahut.edu.cn/) in 2021, advisor: [Prof. Heng Liu](https://www.scholarmate.com/P/bqeqAn).
+My name is Mohan Yu. I am pursuing a Master's degree at the [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/), advisor: [Prof. Fei Tong](https://fei-tong.github.io/). I received my B. Eng. from [Anhui University of Technology](https://www.ahut.edu.cn/) in 2021, advisor: [Prof. Heng Liu](https://www.scholarmate.com/P/bqeqAn).
 
 I've included my [CV](/files/CV_YuanhangZhou.pdf) for your reference.
 
@@ -28,67 +28,24 @@ Unpublished Research
 
 Publications
 ------
-1. **Mohan Yu**, Heng Liu, “[FML-MIS: A Scheme of Privacy Protection and Model Generalization for Medical Images Segmentation via Federated Meta-learning,](https://ieeexplore.ieee.org/abstract/document/9992184),” *International Conference on Image and Graphics(ICIG)*. 2023.
-
-Patents
-------
-1. 一种基于区块链的群智感知隐私保护激励机制方法, Authorized, First Student Author
-1. 一种双目标群智感知激励机制方法, Authorized, First Student Author 
-1. 一种双目标鲁棒移动群智感知系统及其激励方法, Authorized, First Student Author
-1. 一种面向时空移动群智感知任务的异常用户检测方法, Authorized, Third Author
-1. 一种主题敏感众包任务扩散方法及其激励机制, Authorized, Third Author
+1. **Mohan Yu**, Heng Liu, “[FML-MIS: A Scheme of Privacy Protection and Model Generalization for Medical Images Segmentation via Federated Meta-learning,](https://dl.acm.org/doi/10.1007/978-3-031-46314-3_11),” *International Conference on Image and Graphics(ICIG)*. 2023.
 
 Honors
 ------
-1. Outstanding Graduate, *Southeast University*, 2024.
-1. National Scholarship, *Ministry of Education*, 2023.
-1. Pacemaker to Merit Student, *Southeast University*, 2023. 
-1. National Scholarship, *Ministry of Education*, 2022.
-1. 1st “Huawei Cup” Network Security Innovation Competition, Third Prize, 2022.
-1. Second Class Postgraduate Academic Scholarship, *Southeast University*, 2022.
-1. First Class Postgraduate Academic Scholarship, *Southeast University*, 2021.
-1. Excellent Graduation Thesis, *Nanjing University of Posts and Telecommunication*, 2021.
-
-Employment
-------
-Visiting Student in *Southern University of Science and Technology (SUSTech)*, 2023.6 -- 2023.10.
-Department of Computer Science and Engineering, advisor: [Jianyu Niu](https://jianyu-niu.github.io/).
+1. Merit graduate student, **SEU** (2024)
+1. "Huawei Cup" 1st Network Security Innovation Competition, **Third Prize** (2023)
+1. First Class Postgraduate Academic Scholarship, **SEU** (2023)
+1. National Postgraduate Mathematical Contest in Modeling, **Third Prize** (2023)
+1. Excellent Graduate of **Anhui Province** (2022)
+1. Excellent Graduation Thesis of **Anhui Province** (2022)
 
 Research Experience
 ------
-* **Confidential Smart Contracts**, 2023.11 – 2024.6.
-  
-* **Dynamic Consensus for Intelligent Transportation**, 2023.6 – 2024.1.
-  
-* **Incentive Design for Crowdsensing via Blockchain**, 2021.9 – 2023.5.
-  
-* **Crowdsourcing Task Diffusion based on Social Network**, 2020.6 – 2021.6.
-  
-* **Robust Incentive Mechanism Design for Crowdsensing**, 2019.4 – 2020.5.
+1. **Blockchain Scaling Solutions Based on Off-Chain Computation**, *SEU* (2023.09 -- Present)
+1. **Cross-Domain Authentication Based on Scalable Blockchain**, *SEU* (2024.01 -- 2024.03)
+1. **Federated Medical Image Generation and Privacy Protection**, *AHUT* (2021.07 -- 2022.04)
+1. **Vision-Based Scene Recognition and Understanding**, *AHUT* (2020.04 -- 2021.06)
 
-Professional Activities
------
-* **Academic Report**
-
-  the 2nd Distributed Control, Optimization and Security Zhizhen Academic Forum for Postgraduates, Beijing Institute of Technology
-
-* **Reviewer**
-
-  IEEE/CIC International Conference on Communications in China (ICCC)
-  
-  Peer-to-Peer Networking and Applications (PPNA)
-
-* **Short Visit**
-
-  Tohoku University, 2018.8
-
-Technical Abilities
------
-* Programming Language: C/C++ (mastered), Nodejs & Java (competent), experienced in algorithm design
-* Platform: Linux (mastered), experienced in Windows server/Ubuntu server management
-* Development: experienced in Hyperledger Fabric (Blockchain platform) development, focusing on Chaincode and interface methods
-* Software: Latex (proficient), Matlab & Visio (mastered), etc.
-* Language: **TOEFL 102 (R28 L27 S22 W25)**, experienced in academic writing
 
  
-Last updated: 2024/09.
+Last updated: 2024/10.
