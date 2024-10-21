@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuanhang Zhou"
-  avatar           : "Zhou2023.jpg"
+  name             : "Mohan Yu"
+  avatar           : "star.jpg"
   bio              : "Pursuing M.Eng. at School of Cyberscience and Engineering, Southeast University"
   location         : "Nanjing, Jiangsu, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.hk/citations?user=Cu431uMAAAAJ"
-  email            : zhouyh1999 At gmail.com
+  googlescholar    : #"https://scholar.google.com.hk/citations?user=Cu431uMAAAAJ"
+  email            : yumohan01 At gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhouyh1999"
+  github           : "yuwxl"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-6479-3482"
+  orcid            : #"https://orcid.org/0000-0001-6479-3482"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
