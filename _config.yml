@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Y Zhou's Page"
+title                    : "M Yu's Page"
 title_separator          : "-"
-name                     : &name "Yuanhang Zhou"
+name                     : &name "Mohan Yu"
 description              : &description "Post-graduate Student"
-url                      : https://zhouyh1999.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yuwxl.github.io/academic/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://zhouyh1999.github.io"
+repository               : "https://yuwxl.github.io/academic/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
