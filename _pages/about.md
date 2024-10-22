@@ -27,7 +27,7 @@ Unpublished Research
 
 Publications
 ------
-1. **Mohan Yu**, Heng Liu, “[FML-MIS: A Scheme of Privacy Protection and Model Generalization for Medical Images Segmentation via Federated Meta-learning,](https://dl.acm.org/doi/10.1007/978-3-031-46314-3_11),” *International Conference on Image and Graphics (ICIG)*. 2023.
+1. **Mohan Yu**, Heng Liu, “[FML-MIS: A Scheme of Privacy Protection and Model Generalization for Medical Images Segmentation via Federated Meta-learning,](https://link.springer.com/chapter/10.1007/978-3-031-46314-3_11),” *International Conference on Image and Graphics (ICIG)*. 2023.
 
 Honors
 ------
