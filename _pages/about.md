@@ -10,8 +10,15 @@ redirect_from:
 
 Short Bios
 ------
-My name is Mohan Yu. I am pursuing a Master's degree at the [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/), advisor: [Prof. Fei Tong](https://fei-tong.github.io/). I received my B. Eng. from [Anhui University of Technology](https://cs.ahut.edu.cn/) in 2022, advisor: [Prof. Heng Liu](https://www.scholarmate.com/P/bqeqAn).
+My name is Mohan Yu. 
 
+I am pursuing a Master's degree at the [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/), advisor: [Prof. Fei Tong](https://fei-tong.github.io/).
+
+GPA: 87.81/100  Rank: Top 25%
+
+I received my B. Eng. from [Anhui University of Technology](https://cs.ahut.edu.cn/) in 2022, advisor: [Prof. Heng Liu](https://www.scholarmate.com/P/bqeqAn).
+
+GPA: 4.1/4.5  Rank: 1/159
 
 Research Interests
 ------
