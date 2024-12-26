@@ -20,6 +20,10 @@ I received my B. Eng. from [Anhui University of Technology](https://cs.ahut.edu.
 
 GPA: 4.1/4.5  Rank: 1/159
 
+English Proficiency
+------
+TOEFL 107 (R29 L28 S22 W28)
+
 Research Interests
 ------
 **Blockchain**: Blockchain Scalability, Off-chain Computation
@@ -56,4 +60,4 @@ Research Experience
 
 
  
-Last updated: 2024/10.
+Last updated: 2024/12.
