@@ -32,7 +32,7 @@ Research Interests
 
 Unpublished Research
 ------
-1. **Mohan Yu**, Fei Tong, Yuanhang Zhou, et al., “SPOE: Scaling Blockchain via Secure and Practical Off-chain Execution,” submitted to *IEEE Transactions on Information Forensics & Security (TIFS)*, Under review.
+1. **Mohan Yu**, Fei Tong, Yuanhang Zhou, et al., “SPOE: Scaling Blockchain via Secure and Practical Off-chain Execution,” submitted to *IEEE Transactions on Information Forensics & Security (TIFS)*, MAJOR REVISION.
 1. Kaiming Wang, Fei Tong, **Mohan Yu**, et al., “A Blockchain-Assisted Secure and Lightweight Cross-Domain Authentication for Internet of Things,” submitted to *IEEE Internet of Things Journal (IoTJ)*, Under review.
 2. “Scaling Blockchain Through Efficient Authenticated Storage and Parallel Processing”, Under research.
 
