@@ -10,7 +10,7 @@ redirect_from:
 
 Short Bios
 ------
-My name is Mohan Yu. 
+My name is Mohan Yu (余默涵). 
 
 I am pursuing a Master's degree at the [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/), advisor: [Prof. Fei Tong](https://fei-tong.github.io/).
 
@@ -28,7 +28,7 @@ Research Interests
 ------
 **Blockchain**: Blockchain Scalability, Off-chain Computation
 
-**Privacy and Security**: Image Privacy, Applied Cryptography
+**Privacy and Security**: Applied Cryptography, TEE, Image Privacy
 
 Unpublished Research
 ------
