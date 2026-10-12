@@ -30,17 +30,17 @@ Research Interests
 
 **Privacy and Security**: Applied Cryptography, TEE, Image Privacy
 
-Unpublished Research
-------
-1. **Mohan Yu**, Fei Tong, Yuanhang Zhou, et al., “SPOE: Scaling Blockchain via Secure and Practical Off-chain Execution,” submitted to *IEEE Transactions on Information Forensics & Security (TIFS)*, MAJOR REVISION.
-1. Kaiming Wang, Fei Tong, **Mohan Yu**, et al., “A Blockchain-Assisted Secure and Lightweight Cross-Domain Authentication for Internet of Things,” submitted to *IEEE Internet of Things Journal (IoTJ)*, Under review.
-2. “Scaling Blockchain Through Efficient Authenticated Storage and Parallel Processing”, Under research.
-
-
-
 Publications
 ------
-1. **Mohan Yu**, Heng Liu, “[FML-MIS: A Scheme of Privacy Protection and Model Generalization for Medical Images Segmentation via Federated Meta-learning,](https://link.springer.com/chapter/10.1007/978-3-031-46314-3_11),” *International Conference on Image and Graphics (ICIG)*. 2023.
+
+- **Mohan Yu**<sup>†</sup>, Chenlin Wu<sup>†</sup>, Jianyu Niu<sup>*</sup>, Cong Wang, and Chenyuan Wu<sup>*</sup>, "MANTA: Unlocking DAG Flexibility in Asynchronous BFT," *24th USENIX Symposium on Networked Systems Design and Implementation* (***NSDI***). 2027.
+
+- Yining Tang<sup>†</sup>, **Mohan Yu**<sup>†</sup>, Qihang Luo, Runchao Han, Jianyu Niu<sup>*</sup>, Chen Feng, and Yinqian Zhang, "Unraveling Responsiveness of Chained BFT Consensus with Network Delay," *IEEE Transactions on Dependable and Secure Computing* (***TDSC***). 2026.
+
+- K. Wang, F. Tong, **Mohan Yu**, R. Han, H. Li, and Y. Peng, "A Blockchain-Assisted Privacy-Preserving Cross-Domain Authentication for Internet of Things," *IEEE Internet of Things Journal* (***IoTJ***). 2026.
+
+- **Mohan Yu**, Heng Liu<sup>*</sup>, "FML-MIS: A Scheme of Privacy Protection and Model Generalization for Medical Images Segmentation via Federated Meta-learning," *International Conference on Image and Graphics* (***ICIG***). 2023.
+
 
 Honors
 ------
