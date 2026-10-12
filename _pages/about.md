@@ -12,11 +12,11 @@ Short Bios
 ------
 My name is Mohan Yu (余默涵). 
 
-I am pursuing a Master's degree at the [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/), advisor: [Prof. Fei Tong](https://fei-tong.github.io/).
+I am currently a Research Assistant at the Southern University of Science and Technology (SUSTech), advised by **[Prof. Jianyu Niu](https://jianyu-niu.github.io/)**. I received my Master's degree from the [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/), advisor: [Prof. Fei Tong](https://fei-tong.github.io/).
 
-GPA: 87.81/100  Rank: Top 25%
+GPA: 87.81/100
 
-I received my B. Eng. from [Anhui University of Technology](https://cs.ahut.edu.cn/) in 2022, advisor: [Prof. Heng Liu](https://www.scholarmate.com/P/bqeqAn).
+I received my B. Eng. from [Anhui University of Technology](https://cs.ahut.edu.cn/) in 2022, advisor: [Prof. Heng Liu].
 
 GPA: 4.1/4.5  Rank: 1/159
 
@@ -26,22 +26,20 @@ TOEFL 107 (R29 L28 S22 W28)
 
 Research Interests
 ------
-**Blockchain**: Blockchain Scalability, Off-chain Computation
+**Blockchain**: Blockchain Scalability, Distributed Systems
 
-**Privacy and Security**: Applied Cryptography, TEE, Image Privacy
+**AI Agent**: Distributed Agent
 
 Publications
 ------
+- **Mohan Yu**<sup>†</sup>, Chenlin Wu<sup>†</sup>, Jianyu Niu<sup>&ast;</sup>, Cong Wang, and Chenyuan Wu<sup>&ast;</sup>, "MANTA: Unlocking DAG Flexibility in Asynchronous BFT," *24th USENIX Symposium on Networked Systems Design and Implementation* (***NSDI***). 2027.
 
-- **Mohan Yu**<sup>†</sup>, Chenlin Wu<sup>†</sup>, Jianyu Niu*, Cong Wang, and Chenyuan Wu*, "MANTA: Unlocking DAG Flexibility in Asynchronous BFT," *24th USENIX Symposium on Networked Systems Design and Implementation* (***NSDI***). 2027.
+- Yining Tang<sup>†</sup>, **Mohan Yu**<sup>†</sup>, Qihang Luo, Runchao Han, Jianyu Niu<sup>&ast;</sup>, Chen Feng, and Yinqian Zhang, "Unraveling Responsiveness of Chained BFT Consensus with Network Delay," *IEEE Transactions on Dependable and Secure Computing* (***TDSC***). 2026.
 
-- Yining Tang<sup>†</sup>, **Mohan Yu**<sup>†</sup>, Qihang Luo, Runchao Han, Jianyu Niu^*^, Chen Feng, and Yinqian Zhang, "Unraveling Responsiveness of Chained BFT Consensus with Network Delay," *IEEE Transactions on Dependable and Secure Computing* (***TDSC***). 2026.
+- K. Wang, F. Tong<sup>&ast;</sup>, **Mohan Yu**, R. Han, H. Li, and Y. Peng, "A Blockchain-Assisted Privacy-Preserving Cross-Domain Authentication for Internet of Things," *IEEE Internet of Things Journal* (***IoTJ***). 2026.
 
-- K. Wang, F. Tong*, **Mohan Yu**, R. Han, H. Li, and Y. Peng, "A Blockchain-Assisted Privacy-Preserving Cross-Domain Authentication for Internet of Things," *IEEE Internet of Things Journal* (***IoTJ***). 2026.
-
-- **Mohan Yu**, Heng Liu<sup>*</sup>, "FML-MIS: A Scheme of Privacy Protection and Model Generalization for Medical Images Segmentation via Federated Meta-learning," *International Conference on Image and Graphics* (***ICIG***). 2023.
-
-
+- **Mohan Yu**, Heng Liu<sup>&ast;</sup>, "FML-MIS: A Scheme of Privacy Protection and Model Generalization for Medical Images Segmentation via Federated Meta-learning," *International Conference on Image and Graphics* (***ICIG***). 2023.
+- 
 Honors
 ------
 1. Merit graduate student, **SEU** (2024)
