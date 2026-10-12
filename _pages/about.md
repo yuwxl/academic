@@ -39,7 +39,7 @@ Publications
 - K. Wang, F. Tong<sup>&ast;</sup>, **Mohan Yu**, R. Han, H. Li, and Y. Peng, "A Blockchain-Assisted Privacy-Preserving Cross-Domain Authentication for Internet of Things," *IEEE Internet of Things Journal* (***IoTJ***). 2026.
 
 - **Mohan Yu**, Heng Liu<sup>&ast;</sup>, "FML-MIS: A Scheme of Privacy Protection and Model Generalization for Medical Images Segmentation via Federated Meta-learning," *International Conference on Image and Graphics* (***ICIG***). 2023.
-- 
+
 Honors
 ------
 1. Merit graduate student, **SEU** (2024)
