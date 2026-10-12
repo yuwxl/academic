@@ -12,17 +12,9 @@ Short Bios
 ------
 My name is Mohan Yu (余默涵). 
 
-I am currently a Research Assistant at the Southern University of Science and Technology (SUSTech), advised by **[Prof. Jianyu Niu](https://jianyu-niu.github.io/)**. I received my Master's degree from the [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/), advisor: [Prof. Fei Tong](https://fei-tong.github.io/).
+I am currently an RA at the Southern University of Science and Technology (SUSTech), advised by **[Prof. Jianyu Niu](https://jianyu-niu.github.io/)**. 
 
-GPA: 87.81/100
-
-I received my B. Eng. from [Anhui University of Technology](https://cs.ahut.edu.cn/) in 2022, advisor: [Prof. Heng Liu].
-
-GPA: 4.1/4.5  Rank: 1/159
-
-English Proficiency
-------
-TOEFL 107 (R29 L28 S22 W28)
+I received my Master's degree from the [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/) in 2025, advised by [Prof. Fei Tong](https://fei-tong.github.io/). I received my B. Eng. from [Anhui University of Technology](https://cs.ahut.edu.cn/) in 2022, advisor: Prof. Heng Liu.
 
 Research Interests
 ------
