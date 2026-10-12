@@ -24,13 +24,13 @@ Research Interests
 
 Publications
 ------
-- **Mohan Yu**<sup>†</sup>, Chenlin Wu<sup>†</sup>, Jianyu Niu<sup>&ast;</sup>, Cong Wang, and Chenyuan Wu<sup>&ast;</sup>, "MANTA: Unlocking DAG Flexibility in Asynchronous BFT," *24th USENIX Symposium on Networked Systems Design and Implementation* (***NSDI***). 2027.
+- **Mohan Yu**<sup>†</sup>, Chenlin Wu<sup>†</sup>, Jianyu Niu<sup>*</sup>, Cong Wang, and Chenyuan Wu<sup>*</sup>, "MANTA: Unlocking DAG Flexibility in Asynchronous BFT," *24th USENIX Symposium on Networked Systems Design and Implementation* (***NSDI***). 2027.
 
-- Yining Tang<sup>†</sup>, **Mohan Yu**<sup>†</sup>, Qihang Luo, Runchao Han, Jianyu Niu<sup>&ast;</sup>, Chen Feng, and Yinqian Zhang, "Unraveling Responsiveness of Chained BFT Consensus with Network Delay," *IEEE Transactions on Dependable and Secure Computing* (***TDSC***). 2026.
+- Yining Tang<sup>†</sup>, **Mohan Yu**<sup>†</sup>, Qihang Luo, Runchao Han, Jianyu Niu<sup>*</sup>, Chen Feng, and Yinqian Zhang, "Unraveling Responsiveness of Chained BFT Consensus with Network Delay," *IEEE Transactions on Dependable and Secure Computing* (***TDSC***). 2026.
 
-- K. Wang, F. Tong<sup>&ast;</sup>, **Mohan Yu**, R. Han, H. Li, and Y. Peng, "A Blockchain-Assisted Privacy-Preserving Cross-Domain Authentication for Internet of Things," *IEEE Internet of Things Journal* (***IoTJ***). 2026.
+- K. Wang, F. Tong<sup>*</sup>, **Mohan Yu**, R. Han, H. Li, and Y. Peng, "A Blockchain-Assisted Privacy-Preserving Cross-Domain Authentication for Internet of Things," *IEEE Internet of Things Journal* (***IoTJ***). 2026.
 
-- **Mohan Yu**, Heng Liu<sup>&ast;</sup>, "FML-MIS: A Scheme of Privacy Protection and Model Generalization for Medical Images Segmentation via Federated Meta-learning," *International Conference on Image and Graphics* (***ICIG***). 2023.
+- **Mohan Yu**, Heng Liu<sup>*</sup>, "FML-MIS: A Scheme of Privacy Protection and Model Generalization for Medical Images Segmentation via Federated Meta-learning," *International Conference on Image and Graphics* (***ICIG***). 2023.
 
 Honors
 ------
