@@ -32,6 +32,12 @@ Publications
 
 - **Mohan Yu**, Heng Liu<sup>&#42;</sup>, "FML-MIS: A Scheme of Privacy Protection and Model Generalization for Medical Images Segmentation via Federated Meta-learning," *International Conference on Image and Graphics* (***ICIG***). 2023.
 
+
+### Ongoing Research Projects
+
+- A Formal Analysis of Agent Payment Protocols
+- Unified Performance Modeling of Multi-Leader BFT
+
 Honors
 ------
 1. Merit graduate student, **SEU** (2024)
