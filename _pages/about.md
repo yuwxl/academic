@@ -12,9 +12,9 @@ Short Bios
 ------
 My name is Mohan Yu (余默涵). 
 
-I am currently an RA at the Southern University of Science and Technology (SUSTech), advised by **[Prof. Jianyu Niu](https://jianyu-niu.github.io/)**. 
+I am currently an RA at the Southern University of Science and Technology (SUSTech), advised by [Prof. Jianyu Niu](https://jianyu-niu.github.io/). 
 
-I received my Master's degree from the [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/) in 2025, advised by [Prof. Fei Tong](https://fei-tong.github.io/). I received my B. Eng. from [Anhui University of Technology](https://cs.ahut.edu.cn/) in 2022, advisor: Prof. Heng Liu.
+I received my Master's degree from the [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/) in 2025, advised by [Prof. Fei Tong](https://fei-tong.github.io/). I received my B. Eng. from [Anhui University of Technology](https://cs.ahut.edu.cn/) in 2022, advised by Prof. Heng Liu.
 
 Research Interests
 ------
@@ -40,13 +40,6 @@ Honors
 1. National Postgraduate Mathematical Contest in Modeling, **Third Prize** (2023)
 1. Excellent Graduate of **Anhui Province** (2022)
 1. Excellent Graduation Thesis of **Anhui Province** (2022)
-
-Research Experience
-------
-1. **Blockchain Scaling Solutions Based on Off-Chain Computation**, *SEU* (2023.09 -- Present)
-1. **Cross-Domain Authentication Based on Scalable Blockchain**, *SEU* (2024.01 -- 2024.03)
-1. **Federated Medical Image Generation and Privacy Protection**, *AHUT* (2021.07 -- 2022.04)
-1. **Vision-Based Scene Recognition and Understanding**, *AHUT* (2020.04 -- 2021.06)
 
 
  
