@@ -14,7 +14,7 @@ My name is Mohan Yu (余默涵).
 
 I am currently an RA at the Southern University of Science and Technology (SUSTech), advised by [Prof. Jianyu Niu](https://jianyu-niu.github.io/). 
 
-I received my Master's degree from the [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/) in 2025, advised by [Prof. Fei Tong](https://fei-tong.github.io/). I received my B. Eng. from [Anhui University of Technology](https://cs.ahut.edu.cn/) in 2022, advised by Prof. Heng Liu.
+I received my Master's degree from the [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/) in 2025, advised by [Prof. Fei Tong](https://fei-tong.github.io/). I received my B. Eng. from [Anhui University of Technology](https://cs.ahut.edu.cn/) in 2022, advised by [Prof. Heng Liu](https://scholar.google.com/citations?user=a0yXAUYAAAAJ&hl=en).
 
 Research Interests
 ------
