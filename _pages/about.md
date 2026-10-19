@@ -24,18 +24,18 @@ Research Interests
 
 Publications
 ------
-- <strong>Mohan Yu</strong><sup>†</sup>, Chenlin Wu<sup>†</sup>, Jianyu Niu<sup>&#42;</sup>, Cong Wang, and Chenyuan Wu<sup>&#42;</sup>, "MANTA: Unlocking DAG Flexibility in Asynchronous BFT," *24th USENIX Symposium on Networked Systems Design and Implementation* (***NSDI***). 2027.
+- <strong>Mohan Yu</strong><sup>†</sup>, Chenlin Wu<sup>†</sup>, Jianyu Niu<sup>&#42;</sup>, Cong Wang, and Chenyuan Wu<sup>&#42;</sup>, "[MANTA: Unlocking DAG Flexibility in Asynchronous BFT](https://www.usenix.org/conference/nsdi27/presentation/yu-mohan)," *24th USENIX Symposium on Networked Systems Design and Implementation* (***NSDI***). 2027.
 
-- Yining Tang<sup>†</sup>, **Mohan Yu**<sup>†</sup>, Qihang Luo, Runchao Han, Jianyu Niu<sup>&#42;</sup>, Chen Feng, and Yinqian Zhang, "Unraveling Responsiveness of Chained BFT Consensus with Network Delay," *IEEE Transactions on Dependable and Secure Computing* (***TDSC***). 2026.
+- Yining Tang<sup>†</sup>, **Mohan Yu**<sup>†</sup>, Qihang Luo, Runchao Han, Jianyu Niu<sup>&#42;</sup>, Chen Feng, and Yinqian Zhang, "[Unraveling Responsiveness of Chained BFT Consensus with Network Delay](https://doi.org/10.1109/TDSC.2026.3708552)," *IEEE Transactions on Dependable and Secure Computing* (***TDSC***). 2026.
 
-- K. Wang, F. Tong<sup>&#42;</sup>, **Mohan Yu**, R. Han, H. Li, and Y. Peng, "A Blockchain-Assisted Privacy-Preserving Cross-Domain Authentication for Internet of Things," *IEEE Internet of Things Journal* (***IoTJ***). 2026.
+- K. Wang, F. Tong<sup>&#42;</sup>, **Mohan Yu**, R. Han, H. Li, and Y. Peng, "[A Blockchain-Assisted Privacy-Preserving Cross-Domain Authentication for Internet of Things](https://ieeexplore.ieee.org/document/11720364/)," *IEEE Internet of Things Journal* (***IoTJ***). 2026.
 
-- **Mohan Yu**, Heng Liu<sup>&#42;</sup>, "FML-MIS: A Scheme of Privacy Protection and Model Generalization for Medical Images Segmentation via Federated Meta-learning," *International Conference on Image and Graphics* (***ICIG***). 2023.
+- **Mohan Yu**, Heng Liu<sup>&#42;</sup>, "[FML-MIS: A Scheme of Privacy Protection and Model Generalization for Medical Images Segmentation via Federated Meta-learning](https://doi.org/10.1007/978-3-031-46314-3_11)," *International Conference on Image and Graphics* (***ICIG***). 2023.
 
+### Preprints
+- Ke Jiang, **Mohan Yu**, Yuan Chang, Mohit Kumar Jangid, Jianyu Niu, Cong Wang, and Yinqian Zhang, "[A Formal Analysis of Agent Payment Protocols](https://arxiv.org/abs/2609.00060)," *arXiv preprint arXiv:2609.00060*. 2026.
 
 ### Ongoing Research Projects
-
-- A Formal Analysis of Agent Payment Protocols
 - Unified Performance Modeling of Multi-Leader BFT
 
 Honors
@@ -44,8 +44,9 @@ Honors
 1. "Huawei Cup" 1st Network Security Innovation Competition, **Third Prize** (2023)
 1. First Class Postgraduate Academic Scholarship, **SEU** (2023)
 1. National Postgraduate Mathematical Contest in Modeling, **Third Prize** (2023)
-1. Excellent Graduate of **Anhui Province** (2022)
-1. Excellent Graduation Thesis of **Anhui Province** (2022)
+1. Anhui Province University IoT Application Innovation Competition, **First Prize** (2022) 
+1. Excellent Graduate of Anhui Province (2022)
+1. Excellent Graduation Thesis of Anhui Province (2022)
 
 
  
