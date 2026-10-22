@@ -42,11 +42,12 @@ Honors
 ------
 1. Merit graduate student, **SEU** (2024)
 1. "Huawei Cup" Network Security Innovation Competition, **Third Prize** (2023)
-1. First Class Postgraduate Academic Scholarship, **SEU** (2023)
+1. First-Class Postgraduate Academic Scholarship, **SEU** (2023)
 1. National Postgraduate Mathematical Contest in Modeling, **Third Prize** (2023)
 1. Anhui Provincial IoT Application Innovation Competition, **First Prize** (2022) 
 1. Excellent Graduate of Anhui Province (2022)
 1. Excellent Graduation Thesis of Anhui Province (2022)
+1. Special-Class Academic Scholarship, **AHUT** (2019)
 
 
  
