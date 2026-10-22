@@ -33,7 +33,7 @@ Research Achievements
 
 ### Preprints
 - Ke Jiang, **Mohan Yu**, Yuan Chang, Mohit Kumar Jangid, Jianyu Niu, Cong Wang, and Yinqian Zhang, "[A Formal Analysis of Agent Payment Protocols](https://arxiv.org/abs/2609.00060)," *arXiv preprint arXiv:2609.00060*. 2026.
-- Yuan Chang, **Mohan Yu**, Ke Jiang, Mohit Kumar Jangid, Jianyu Niu, Athanasios V. Vasilakos, and Yinqian Zhang, "[Privacy in Agentic Payments: A Survey of Protocols, Challenges and Defenses]()," *Cryptographic Theory and Practice*. Under review.
+- Yuan Chang, **Mohan Yu**, Ke Jiang, Mohit Kumar Jangid, Jianyu Niu, Athanasios V. Vasilakos, and Yinqian Zhang, "[Privacy in Agentic Payments: A Survey of Protocols, Challenges and Defenses](),". Under review.
 
 ### Ongoing Research Projects
 - Unified Performance Modeling of Multi-Leader BFT
