@@ -25,7 +25,7 @@ Research Interests
 Research Achievements
 ------
 ### Publications (Notation: * Corresponding author; † Equal contribution.)
-- <strong>Mohan Yu</strong><sup>†</sup>, Chenlin Wu<sup>†</sup>, Jianyu Niu<sup>&#42;</sup>, Cong Wang, and Chenyuan Wu<sup>&#42;</sup>, "[MANTA: Unlocking DAG Flexibility in Asynchronous BFT](https://www.usenix.org/conference/nsdi27/presentation/yu-mohan)," *24th USENIX Symposium on Networked Systems Design and Implementation* (***NSDI***). 2027.
+- <strong>Mohan Yu</strong><sup>†</sup>, Chenlin Wu<sup>†</sup>, Jianyu Niu<sup>&#42;</sup>, Cong Wang, and Chenyuan Wu<sup>&#42;</sup>, "[MANTA: Unlocking DAG Flexibility in Asynchronous BFT](https://www.usenix.org/conference/nsdi27/presentation/yu-mohan)," *USENIX Symposium on Networked Systems Design and Implementation* (***NSDI***). 2027.
 
 - Yining Tang<sup>†</sup>, **Mohan Yu**<sup>†</sup>, Qihang Luo, Runchao Han, Jianyu Niu<sup>&#42;</sup>, Chen Feng, and Yinqian Zhang, "[Unraveling Responsiveness of Chained BFT Consensus with Network Delay](https://doi.org/10.1109/TDSC.2026.3708552)," *IEEE Transactions on Dependable and Secure Computing* (***TDSC***). 2026.
 
@@ -41,10 +41,10 @@ Research Achievements
 Honors
 ------
 1. Merit graduate student, **SEU** (2024)
-1. "Huawei Cup" 1st Network Security Innovation Competition, **Third Prize** (2023)
+1. "Huawei Cup" Network Security Innovation Competition, **Third Prize** (2023)
 1. First Class Postgraduate Academic Scholarship, **SEU** (2023)
 1. National Postgraduate Mathematical Contest in Modeling, **Third Prize** (2023)
-1. Anhui Province University IoT Application Innovation Competition, **First Prize** (2022) 
+1. Anhui Provincial IoT Application Innovation Competition, **First Prize** (2022) 
 1. Excellent Graduate of Anhui Province (2022)
 1. Excellent Graduation Thesis of Anhui Province (2022)
 
