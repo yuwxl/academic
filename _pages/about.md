@@ -18,7 +18,7 @@ I received my Master's degree from the [School of Cyberscience and Engineering, 
 
 Research Interests
 ------
-**Blockchain**: Blockchain Scalability, Distributed Systems
+**Distributed Systems**: Blockchain Scalability, BFT
 
 **AI Agent**: Distributed Agent, AI for Research
 
@@ -30,6 +30,8 @@ Research Achievements
 - Yining Tang<sup>†</sup>, **Mohan Yu**<sup>†</sup>, Qihang Luo, Runchao Han, Jianyu Niu<sup>&#42;</sup>, Chen Feng, and Yinqian Zhang, "[Unraveling Responsiveness of Chained BFT Consensus with Network Delay](https://doi.org/10.1109/TDSC.2026.3708552)," *IEEE Transactions on Dependable and Secure Computing* (***TDSC***). 2026.
 
 - K. Wang, F. Tong<sup>&#42;</sup>, **Mohan Yu**, R. Han, H. Li, and Y. Peng, "[A Blockchain-Assisted Privacy-Preserving Cross-Domain Authentication for Internet of Things](https://ieeexplore.ieee.org/document/11720364/)," *IEEE Internet of Things Journal* (***IoTJ***). 2026.
+  
+- **Mohan Yu**, Heng Liu<sup>*</sup>, "[FML-MIS: A Scheme of Privacy Protection and Model Generalization for Medical Images Segmentation via Federated Meta-learning](https://doi.org/10.1007/978-3-031-46314-3_11)," *International Conference on Image and Graphics* (***ICIG***). 2023.
 
 ### Preprints
 - Ke Jiang, **Mohan Yu**, Yuan Chang, Mohit Kumar Jangid, Jianyu Niu, Cong Wang, and Yinqian Zhang, "[A Formal Analysis of Agent Payment Protocols](https://arxiv.org/abs/2609.00060)," *arXiv preprint arXiv:2609.00060*. 2026.
