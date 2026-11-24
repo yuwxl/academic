@@ -16,7 +16,7 @@ I am currently an RA at the Southern University of Science and Technology (SUSTe
 
 I received my Master's degree from the [School of Cyberscience and Engineering, Southeast University](https://cyber.seu.edu.cn/) in 2025, advised by [Prof. Fei Tong](https://fei-tong.github.io/). I received my B. Eng. from [Anhui University of Technology](https://cs.ahut.edu.cn/) in 2022, advised by [Prof. Heng Liu](https://scholar.google.com/citations?user=a0yXAUYAAAAJ&hl=en).
 
-[CV](./files/CV_MohanYu.pdf)
+[CV](../files/CV_MohanYu.pdf)
 
 Research Interests
 ------
