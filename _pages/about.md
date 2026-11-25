@@ -27,7 +27,7 @@ Research Interests
 Research Achievements
 ------
 ### Publications (Notation: * Corresponding author; † Equal contribution.)
-- <strong>Mohan Yu</strong><sup>†</sup>, Chenlin Wu<sup>†</sup>, Jianyu Niu<sup>&#42;</sup>, Cong Wang, and Chenyuan Wu<sup>&#42;</sup>, "[MANTA: Unlocking DAG Flexibility in Asynchronous BFT](https://www.usenix.org/conference/nsdi27/presentation/yu-mohan)," *USENIX Symposium on Networked Systems Design and Implementation* (***NSDI***). 2027.
+- <strong>Mohan Yu</strong><sup>†</sup>, Chenlin Wu<sup>†</sup>, Jianyu Niu<sup>&#42;</sup>, Cong Wang, and Chenyuan Wu<sup>&#42;</sup>, "[MANTA: Unlocking DAG Flexibility in Asynchronous BFT](https://arxiv.org/pdf/2610.34419)," *USENIX Symposium on Networked Systems Design and Implementation* (***NSDI***). 2027.
 
 - Yining Tang<sup>†</sup>, **Mohan Yu**<sup>†</sup>, Qihang Luo, Runchao Han, Jianyu Niu<sup>&#42;</sup>, Chen Feng, and Yinqian Zhang, "[Unraveling Responsiveness of Chained BFT Consensus with Network Delay](https://doi.org/10.1109/TDSC.2026.3708552)," *IEEE Transactions on Dependable and Secure Computing* (***TDSC***). 2026.
 
